@@ -1,6 +1,7 @@
 # SCIFI
-<font color=red size=5>S</font>elf-Attentive BiLSTM-<font color=red size=5>C</font>RF w<font color=red size=5>I</font>th <font color=red size=5>F</font>la<font color=red size=5>I</font>r Embeddings for Causality Extraction.
+**S**elf-Attentive BiLSTM-**C**RF w**I**th **F**la**I**r Embeddings for Causality Extraction.
 - arXiv paper link: https://arxiv.org/pdf/1904.07629.pdf
+- All code will be released upon publication
 
 ## Highlights
 - A novel causality tagging scheme has been proposed to serve the causality extraction

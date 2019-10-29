@@ -1,0 +1,2361 @@
+<?xml version="1.0" ?>
+<test-corpus version="2018">
+	<item id="1" label="Non-Causal">
+		<sentence>This statement threw &lt;e1&gt;people&lt;/e1&gt; into &lt;e2&gt;chaos&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="2" label="Cause-Effect((e2,e1),(e3,e1))">
+		<sentence>Cutler ended up with &lt;e1&gt;a bleeding stomach ulcer&lt;/e1&gt; caused by &lt;e2&gt;the stress&lt;/e2&gt; and &lt;e3&gt;hard work&lt;/e3&gt; supervising their tours twenty-four hours a day.</sentence>
+	</item>
+	<item id="3" label="Non-Causal">
+		<sentence>This &lt;e1&gt;theme&lt;/e1&gt; has been covered in &lt;e2&gt;science fiction&lt;/e2&gt; like Star Trek.</sentence>
+	</item>
+	<item id="4" label="Cause-Effect((e3,e1),(e3,e2))">
+		<sentence>&lt;e1&gt;Paralysis&lt;/e1&gt; or &lt;e2&gt;convulsions&lt;/e2&gt; are caused by &lt;e3&gt;hormone deficiencies and imbalances&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="5" label="Cause-Effect((e2,e1),(e3,e1))">
+		<sentence>In economic terms, &lt;e1&gt;the ecological catastrophe&lt;/e1&gt; caused by &lt;e2&gt;the Prestige oil spill&lt;/e2&gt; is comparable with that caused by &lt;e3&gt;the Exxon Valdez&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="6" label="Cause-Effect((e1,e3),(e2,e3))">
+		<sentence>Use outdoor where &lt;e1&gt;sunlight&lt;/e1&gt; and &lt;e2&gt;glare&lt;/e2&gt; cause &lt;e3&gt;eye strain and fatigue&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="7" label="Non-Causal">
+		<sentence>A qualified medical &lt;e1&gt;professional&lt;/e1&gt; uses a variety of diagnostic &lt;e2&gt;tests&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="8" label="Non-Causal">
+		<sentence>The &lt;e1&gt;cough syrup&lt;/e1&gt; was in a &lt;e2&gt;bottle&lt;/e2&gt; on a shelf in the kitchen.</sentence>
+	</item>
+	<item id="9" label="Non-Causal">
+		<sentence>The bottle carrier converts your &lt;e1&gt;bottle&lt;/e1&gt; into a &lt;e2&gt;canteen&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="10" label="Non-Causal">
+		<sentence>A polypropylene net, attached to the bottom of the fluidized bed section, acted as a flow distributor and a support for the static &lt;e1&gt;bed&lt;/e1&gt; of &lt;e2&gt;oysters&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="11" label="Non-Causal">
+		<sentence>The GAA's Central Council passed a number of &lt;e1&gt;motions&lt;/e1&gt; regarding &lt;e2&gt;discipline&lt;/e2&gt; at a special meeting on Saturday.</sentence>
+	</item>
+	<item id="12" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The pressure&lt;/e1&gt; was caused by &lt;e2&gt;the rapid power acceleration&lt;/e2&gt; at the start.</sentence>
+	</item>
+	<item id="13" label="Non-Causal">
+		<sentence>In the run-up to this match, a new &lt;e1&gt;war&lt;/e1&gt; of words has erupted on the &lt;e2&gt;internet&lt;/e2&gt; in yet another twist to the long-simmering saga.</sentence>
+	</item>
+	<item id="14" label="Non-Causal">
+		<sentence>Those models were chain driven and the &lt;e1&gt;mechanism&lt;/e1&gt; was enclosed in a very visible oil &lt;e2&gt;bath&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="15" label="Non-Causal">
+		<sentence>We had a flour bin, I poured &lt;e1&gt;flour&lt;/e1&gt; into the &lt;e2&gt;well&lt;/e2&gt;, and I stirred it with the bucket.</sentence>
+	</item>
+	<item id="16" label="Non-Causal">
+		<sentence>William Durand' book on the &lt;e1&gt;clergy&lt;/e1&gt; and their &lt;e2&gt;vestments&lt;/e2&gt; was the topic of the discussion.</sentence>
+	</item>
+	<item id="17" label="Non-Causal">
+		<sentence>The &lt;e1&gt;servant&lt;/e1&gt; who carves removes the fat with a &lt;e2&gt;spoon&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="18" label="Non-Causal">
+		<sentence>Several authors have inserted &lt;e1&gt;implants&lt;/e1&gt; into &lt;e2&gt;bone&lt;/e2&gt; that have been subject to higher radiation doses.</sentence>
+	</item>
+	<item id="19" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The damage&lt;/e1&gt; caused by &lt;e2&gt;a bullet&lt;/e2&gt; depends on the amount of energy which it transfers to the tissues.</sentence>
+	</item>
+	<item id="20" label="Non-Causal">
+		<sentence>Once outside, the &lt;e1&gt;python&lt;/e1&gt; was placed in a &lt;e2&gt;bag&lt;/e2&gt;, which was put inside a dog crate.</sentence>
+	</item>
+	<item id="21" label="Non-Causal">
+		<sentence>Two &lt;e1&gt;prices&lt;/e1&gt; arrived to the &lt;e2&gt;hotel&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="22" label="Cause-Effect((e2,e1))">
+		<sentence>Every child and young person seen at Starship with &lt;e1&gt;intoxication&lt;/e1&gt; from &lt;e2&gt;alcohol or illicit drug use&lt;/e2&gt; had a social work assessment before leaving the hospital.</sentence>
+	</item>
+	<item id="23" label="Non-Causal">
+		<sentence>Hoover is also notable for an extremely unusual &lt;e1&gt;vacuum&lt;/e1&gt; &lt;e2&gt;cleaner&lt;/e2&gt;, the Hoover Constellation, which is canister type but lacks wheels.</sentence>
+	</item>
+	<item id="24" label="Non-Causal">
+		<sentence>The officer threw a &lt;e1&gt;prisoner&lt;/e1&gt; into a &lt;e2&gt;cell&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="25" label="Cause-Effect((e1,e2))">
+		<sentence>Priority must be given to efforts to combat insecurity and thus &lt;e1&gt;poverty&lt;/e1&gt;, major cause of &lt;e2&gt;violence&lt;/e2&gt; most often experienced by poorest.</sentence>
+	</item>
+	<item id="26" label="Non-Causal">
+		<sentence>The efficiency of the &lt;e1&gt;body&lt;/e1&gt; of &lt;e2&gt;teachers&lt;/e2&gt;, taken as a whole, during the past seven years has at no time been better than it was during the past year.</sentence>
+	</item>
+	<item id="27" label="Non-Causal">
+		<sentence>My &lt;e1&gt;equipment&lt;/e1&gt; was built in another &lt;e2&gt;country&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="28" label="Non-Causal">
+		<sentence>At the moment heavy snow &lt;e1&gt;showers&lt;/e1&gt; are running into the Northeastern &lt;e2&gt;regions&lt;/e2&gt; of England.</sentence>
+	</item>
+	<item id="29" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The warmth&lt;/e1&gt; was radiating from &lt;e2&gt;the fireplace&lt;/e2&gt; to all corners of the room.</sentence>
+	</item>
+	<item id="30" label="Non-Causal">
+		<sentence>The &quot;underdog&quot; prize is awarded to the &lt;e1&gt;driver&lt;/e1&gt; who wins the race with a &lt;e2&gt;car&lt;/e2&gt; in the lowest PI of the field.</sentence>
+	</item>
+	<item id="31" label="Non-Causal">
+		<sentence>Even &lt;e1&gt;travel agents&lt;/e1&gt; are turning to &lt;e2&gt;telepresence&lt;/e2&gt; for clients.</sentence>
+	</item>
+	<item id="32" label="Cause-Effect((e1,e2),(e1,e3))">
+		<sentence>Liver plays key role in how &lt;e1&gt;steroids&lt;/e1&gt; cause &lt;e2&gt;diabetes&lt;/e2&gt; and &lt;e3&gt;hypertension&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="33" label="Non-Causal">
+		<sentence>A &lt;e1&gt;blood&lt;/e1&gt; &lt;e2&gt;clot&lt;/e2&gt; is a normal reaction of the body that occurs if a blood vessel is injured.</sentence>
+	</item>
+	<item id="34" label="Non-Causal">
+		<sentence>The &lt;e1&gt;man&lt;/e1&gt; fell into a &lt;e2&gt;pit&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="35" label="Non-Causal">
+		<sentence>Anybody who has a &lt;e1&gt;peep&lt;/e1&gt; of &lt;e2&gt;chickens&lt;/e2&gt; has an opportunity for some interesting observations and great omelet material.</sentence>
+	</item>
+	<item id="36" label="Non-Causal">
+		<sentence>For other useful ideas on how to use e-texts to aide literary analysis the girls read Robert Harris's &quot;The personal &lt;e1&gt;computer&lt;/e1&gt; as a tool for &lt;e2&gt;student&lt;/e2&gt; literary analysis&quot;.</sentence>
+	</item>
+	<item id="37" label="Non-Causal">
+		<sentence>Contemporary &lt;e1&gt;criticism&lt;/e1&gt; commented on the &lt;e2&gt;weaknesses&lt;/e2&gt; of the opera's characters and the storyline.</sentence>
+	</item>
+	<item id="38" label="Non-Causal">
+		<sentence>The &lt;e1&gt;meeting&lt;/e1&gt; was postponed to a &lt;e2&gt;later date&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="39" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Conflict&lt;/e1&gt; had caused &lt;e2&gt;the collapse&lt;/e2&gt; of the Somali Republic.</sentence>
+	</item>
+	<item id="40" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Cervical cancer&lt;/e1&gt; is caused by &lt;e2&gt;infection&lt;/e2&gt; with the human papillomavirus  and is one of the most common cancers in women in developing countries.</sentence>
+	</item>
+	<item id="41" label="Non-Causal">
+		<sentence>LC repair is a special welding &lt;e1&gt;system&lt;/e1&gt; that employs a high power YaG laser &lt;e2&gt;beam&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="42" label="Non-Causal">
+		<sentence>It shows a female &lt;e1&gt;doctor&lt;/e1&gt; with a &lt;e2&gt;veil&lt;/e2&gt; standing beside a female patient in bed, also wearing the veil.</sentence>
+	</item>
+	<item id="43" label="Cause-Effect((e1,e2),(e4,e3))">
+		<sentence>&lt;e1&gt;The debris&lt;/e1&gt; caused &lt;e2&gt;a crash&lt;/e2&gt; on the Schuylkill, and it has been &lt;e3&gt;closed&lt;/e3&gt; for hours because of &lt;e4&gt;the mishap&lt;/e4&gt;.</sentence>
+	</item>
+	<item id="44" label="Non-Causal">
+		<sentence>Francisco Garcia Lorca sees the &lt;e1&gt;horse&lt;/e1&gt; carrying the &lt;e2&gt;rider&lt;/e2&gt;, against his will, to his death.</sentence>
+	</item>
+	<item id="45" label="Non-Causal">
+		<sentence>This weekly economic &lt;e1&gt;publication&lt;/e1&gt; analyzes and interprets financial, commercial and industrial &lt;e2&gt;developments&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="46" label="Non-Causal">
+		<sentence>The only &lt;e1&gt;escape&lt;/e1&gt; I had now was in a &lt;e2&gt;bottle&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="47" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Glaucoma&lt;/e1&gt; is one of the leading causes for &lt;e2&gt;blindness&lt;/e2&gt; and currently about 90 million patients worldwide are affected by the disease.</sentence>
+	</item>
+	<item id="48" label="Cause-Effect((e2,e1),(e3,e1))">
+		<sentence>&lt;e1&gt;The vascular dilatation&lt;/e1&gt; was caused by &lt;e2&gt;the sympathetic&lt;/e2&gt; and &lt;e3&gt;the course&lt;/e3&gt; of vaso-motor nerves.</sentence>
+	</item>
+	<item id="49" label="Cause-Effect((e2,e1))">
+		<sentence>Before he leaves Ephesus, however, &lt;e1&gt;a riot&lt;/e1&gt; breaks out, instigated by &lt;e2&gt;the silversmiths&lt;/e2&gt; who manufacture idols of the goddess Artemis; they are afraid that Paul's evangelistic success will ruin their business.</sentence>
+	</item>
+	<item id="50" label="Non-Causal">
+		<sentence>An unidentified &lt;e1&gt;substance&lt;/e1&gt; was found in a &lt;e2&gt;letter&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="51" label="Non-Causal">
+		<sentence>These &lt;e1&gt;subjects&lt;/e1&gt; were thoroughly investigated at the &lt;e2&gt;conference&lt;/e2&gt; during the three seminars each of high specialist content.</sentence>
+	</item>
+	<item id="52" label="Cause-Effect((e1,e3),(e2,e3))">
+		<sentence>&lt;e1&gt;Colds&lt;/e1&gt; and &lt;e2&gt;flu&lt;/e2&gt; cause &lt;e3&gt;inflammation&lt;/e3&gt; of the mucous membranes of the nose, throat and mouth.</sentence>
+	</item>
+	<item id="53" label="Non-Causal">
+		<sentence>Douglas was giving a &lt;e1&gt;speech&lt;/e1&gt; addressing the harmful &lt;e2&gt;practices&lt;/e2&gt; of the Army Corps of Engineers.</sentence>
+	</item>
+	<item id="54" label="Non-Causal">
+		<sentence>Villagers in the Netherlands are glad to have a &lt;e1&gt;mustering&lt;/e1&gt; of &lt;e2&gt;stork&lt;/e2&gt; visit them.</sentence>
+	</item>
+	<item id="55" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Sudden death&lt;/e1&gt; from &lt;e2&gt;inhalation&lt;/e2&gt; of petroleum distillates is well recognised in misuses of volatile substances.</sentence>
+	</item>
+	<item id="56" label="Non-Causal">
+		<sentence>The politicians have taken &lt;e1&gt;people&lt;/e1&gt; deep into the &lt;e2&gt;twilight zone&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="57" label="Non-Causal">
+		<sentence>The top half of the network belongs to the &lt;e1&gt;engine&lt;/e1&gt; of the &lt;e2&gt;refrigerator&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="58" label="Non-Causal">
+		<sentence>Some accounts detail the routine and perfunctory nature of arrest and proceedings against the &lt;e1&gt;riffraff&lt;/e1&gt; of the &quot;criminal &lt;e2&gt;classes&lt;/e2&gt;&quot; .</sentence>
+	</item>
+	<item id="59" label="Cause-Effect((e2,e1))">
+		<sentence>A cancer survivor writes about the relatively rare occurrence of &lt;e1&gt;calcification&lt;/e1&gt; of the breast after &lt;e2&gt;radiation therapy&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="60" label="Non-Causal">
+		<sentence>The beach was empty except for a &lt;e1&gt;charm&lt;/e1&gt; of yellow &lt;e2&gt;finches&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="61" label="Non-Causal">
+		<sentence>Just like in Oyo State, Obasanjo sired a &lt;e1&gt;clique&lt;/e1&gt; of &lt;e2&gt;renegades&lt;/e2&gt;, who believe that the State treasury is their birthright.</sentence>
+	</item>
+	<item id="62" label="Cause-Effect((e3,e1),(e3,e2))">
+		<sentence>Our country is resolving &lt;e1&gt;the war&lt;/e1&gt; and &lt;e2&gt;poverty&lt;/e2&gt; caused by &lt;e3&gt;the previous administration&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="63" label="Non-Causal">
+		<sentence>&lt;e1&gt;Yogurt&lt;/e1&gt; &lt;e2&gt;soup&lt;/e2&gt; is a popular comfort dish both in Turkey and Central Asia.</sentence>
+	</item>
+	<item id="64" label="Cause-Effect((e3,e1),(e3,e2),(e4,e1),(e4,e2))">
+		<sentence>The elderly found it hard to cope with the high heat-humidity, which often causes &lt;e1&gt;nausea&lt;/e1&gt; and &lt;e2&gt;dizziness&lt;/e2&gt; from &lt;e3&gt;exhaustion&lt;/e3&gt; and &lt;e4&gt;dehydration&lt;/e4&gt;.</sentence>
+	</item>
+	<item id="65" label="Non-Causal">
+		<sentence>Before the &lt;e1&gt;barber&lt;/e1&gt; takes his &lt;e2&gt;scissors&lt;/e2&gt; out, family, friends and rabbis take turns snipping.</sentence>
+	</item>
+	<item id="66" label="Cause-Effect((e2,e1))">
+		<sentence>Over 90% of the cases of &lt;e1&gt;ringworm&lt;/e1&gt; of the scalp are caused by &lt;e2&gt;Trichophyton tonsurans&lt;/e2&gt;, a fungus that infects the hairs and causes them to break.</sentence>
+	</item>
+	<item id="67" label="Non-Causal">
+		<sentence>He likewise directed Edric to fling out his nets, who was rewarded with a miraculous &lt;e1&gt;draught&lt;/e1&gt; of &lt;e2&gt;salmons&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="68" label="Non-Causal">
+		<sentence>The normal &lt;e1&gt;prostate&lt;/e1&gt; is composed of &lt;e2&gt;glands&lt;/e2&gt; and stroma.</sentence>
+	</item>
+	<item id="69" label="Non-Causal">
+		<sentence>The government's new &lt;e1&gt;measures&lt;/e1&gt; to regulate cosmetic surgery &lt;e2&gt;procedures&lt;/e2&gt; are a good move.</sentence>
+	</item>
+	<item id="70" label="Cause-Effect((e2,e1))">
+		<sentence>With &lt;e1&gt;the pollution&lt;/e1&gt; caused by &lt;e2&gt;the buring&lt;/e2&gt; of coal, the light-colored tree trunks became darker due to soot.</sentence>
+	</item>
+	<item id="71" label="Non-Causal">
+		<sentence>Just 18 months ago, the New York Times Magazine ran a cover story depicting progressive bloggers as a &lt;e1&gt;band&lt;/e1&gt; of unkempt &lt;e2&gt;outsiders&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="72" label="Cause-Effect((e1,e2))">
+		<sentence>If &lt;e1&gt;a participant complaint&lt;/e1&gt; is the source of &lt;e2&gt;an investigative lead&lt;/e2&gt;, interim contact with the participant should be made by the investigator.</sentence>
+	</item>
+	<item id="73" label="Non-Causal">
+		<sentence>New Western &lt;e1&gt;customs&lt;/e1&gt; moved into the traditional Asian &lt;e2&gt;culture&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="74" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The transmitter&lt;/e1&gt; generates &lt;e2&gt;the electromagnetic wave&lt;/e2&gt;, some of which will be incident on the receiver.</sentence>
+	</item>
+	<item id="75" label="Non-Causal">
+		<sentence>Louise is a director, audit chair and finance &lt;e1&gt;committee&lt;/e1&gt; &lt;e2&gt;member&lt;/e2&gt; of a public health board, and was a director of AFAANZ for 3 years.</sentence>
+	</item>
+	<item id="76" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Inhibition&lt;/e1&gt; through &lt;e2&gt;synaptic depression&lt;/e2&gt; is unlike the previous forms of inhibition in that it turns on more slowly and thus acts as delayed negative feedback.</sentence>
+	</item>
+	<item id="77" label="Cause-Effect((e1,e2),(e3,e1))">
+		<sentence>&lt;e1&gt;The drone strike&lt;/e1&gt; that resulted in &lt;e2&gt;the death&lt;/e2&gt; of Pakistan's most wanted terrorist is believed to be a result of &lt;e3&gt;deliberately planted false intelligence&lt;/e3&gt;, sources in South Waziristan have confirmed.</sentence>
+	</item>
+	<item id="78" label="Cause-Effect((e2,e1))">
+		<sentence>Also, in the midst of &lt;e1&gt;the confusion&lt;/e1&gt; caused by &lt;e2&gt;the coup&lt;/e2&gt;, the issuing of militant posters was a way for artists and organizations to declare their active engagement against the rebellion.</sentence>
+	</item>
+	<item id="79" label="Non-Causal">
+		<sentence>&lt;e1&gt;Males&lt;/e1&gt; had their urethra and urachus ligated with a fine silastic &lt;e2&gt;tubing&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="80" label="Non-Causal">
+		<sentence>He moves &lt;e1&gt;people&lt;/e1&gt; into &lt;e2&gt;climate action&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="81" label="Non-Causal">
+		<sentence>The reaction &lt;e1&gt;mixture&lt;/e1&gt; is kept in the &lt;e2&gt;dark&lt;/e2&gt; at room temperature for 1 1/2 hours.</sentence>
+	</item>
+	<item id="82" label="Cause-Effect((e1,e5),(e2,e5),(e3,e5),(e4,e5))">
+		<sentence>&lt;e1&gt;Fog&lt;/e1&gt;, &lt;e2&gt;rain&lt;/e2&gt;, &lt;e3&gt;darkness&lt;/e3&gt;, and or &lt;e4&gt;blowing snow&lt;/e4&gt; lead to &lt;e5&gt;disorientation&lt;/e5&gt;.</sentence>
+	</item>
+	<item id="83" label="Cause-Effect((e3,e1),(e3,e2))">
+		<sentence>&lt;e1&gt;Cold sores&lt;/e1&gt; or &lt;e2&gt;fever blisters&lt;/e2&gt; are caused by &lt;e3&gt;the herpes simplex virus&lt;/e3&gt; and are usually relatively easy to identify.</sentence>
+	</item>
+	<item id="84" label="Non-Causal">
+		<sentence>Our &lt;e1&gt;company&lt;/e1&gt; converts waste plastics into crude &lt;e2&gt;oil&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="85" label="Non-Causal">
+		<sentence>This &lt;e1&gt;stolen property&lt;/e1&gt; was in a &lt;e2&gt;trunk&lt;/e2&gt; which was locked, and was in her room.</sentence>
+	</item>
+	<item id="86" label="Non-Causal">
+		<sentence>As the servants put the &lt;e1&gt;inflatable corgis&lt;/e1&gt; in a &lt;e2&gt;bag&lt;/e2&gt; for the Balmoral jumble sale, the Queen will be settling down this morning for a nice cup of tea and a quiet rest during The Archers, known to be one of her radio favourites.</sentence>
+	</item>
+	<item id="87" label="Non-Causal">
+		<sentence>Our powered &lt;e1&gt;scissors&lt;/e1&gt; effortlessly cut &lt;e2&gt;fabrics&lt;/e2&gt;, gift wrap, vinyl and much more.</sentence>
+	</item>
+	<item id="88" label="Cause-Effect((e2,e1))">
+		<sentence>An alert victim with a broken neck or severely torn ligament has &lt;e1&gt;enough discomfort&lt;/e1&gt; from &lt;e2&gt;the injury&lt;/e2&gt; and muscle spasm to force him to hold his neck still.</sentence>
+	</item>
+	<item id="89" label="Cause-Effect((e2,e1))">
+		<sentence>I have always drawn &lt;e1&gt;satisfaction&lt;/e1&gt; from &lt;e2&gt;exertion&lt;/e2&gt;, straining my muscles to their limits.</sentence>
+	</item>
+	<item id="90" label="Non-Causal">
+		<sentence>The &lt;e1&gt;kitchen&lt;/e1&gt; holds little &lt;e2&gt;clues&lt;/e2&gt; about how we tried to reinvent the past.</sentence>
+	</item>
+	<item id="91" label="Non-Causal">
+		<sentence>&lt;e1&gt;Negotiations&lt;/e1&gt; between the European Community and Greenland on a fourth &lt;e2&gt;protocol&lt;/e2&gt; concerning the implementation of the agreement, were concluded at 13 September 2000.</sentence>
+	</item>
+	<item id="92" label="Non-Causal">
+		<sentence>The new &lt;e1&gt;software&lt;/e1&gt; is shipped to the major &lt;e2&gt;distributors&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="93" label="Non-Causal">
+		<sentence>A portion of the ethernet &lt;e1&gt;cable&lt;/e1&gt; 's outer &lt;e2&gt;insulation&lt;/e2&gt; is in the connector as well.</sentence>
+	</item>
+	<item id="94" label="Non-Causal">
+		<sentence>Philip Larkin's poem &quot;At Grass&quot; employs his sensitive poetic technique to reflect on a &lt;e1&gt;field&lt;/e1&gt; of aged &lt;e2&gt;racehorses&lt;/e2&gt;, and on the practice of poetry.</sentence>
+	</item>
+	<item id="95" label="Non-Causal">
+		<sentence>We have poured &lt;e1&gt;cement&lt;/e1&gt; into 3 inch &lt;e2&gt;forms&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="96" label="Non-Causal">
+		<sentence>Tom's prominient selection of various &lt;e1&gt;rye&lt;/e1&gt; &lt;e2&gt;spirits&lt;/e2&gt; wins him kudos today.</sentence>
+	</item>
+	<item id="97" label="Non-Causal">
+		<sentence>It is inherently no less silly to see a king in a pear  than to see a pear in a rabbit, a rabbit in a carafe, a &lt;e1&gt;carafe&lt;/e1&gt; in a &lt;e2&gt;clock&lt;/e2&gt;, and so on and so forth.</sentence>
+	</item>
+	<item id="98" label="Cause-Effect((e3,e1),(e3,e2))">
+		<sentence>He created and advocated &quot;flower power,&quot;a strategy in which antiwar demonstrators promoted positive values like peace and love to dramatize their opposition to &lt;e1&gt;the destruction&lt;/e1&gt; and &lt;e2&gt;death&lt;/e2&gt; caused by &lt;e3&gt;the war&lt;/e3&gt; in Vietnam.</sentence>
+	</item>
+	<item id="99" label="Cause-Effect((e3,e1),(e3,e2))">
+		<sentence>Givers gain &lt;e1&gt;moral strength&lt;/e1&gt; and &lt;e2&gt;happiness&lt;/e2&gt; from &lt;e3&gt;giving&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="100" label="Non-Causal">
+		<sentence>This paralyzed him so much that when trying to lay back on the bed, he fell on his back and hit his head on the &lt;e1&gt;bed&lt;/e1&gt; &lt;e2&gt;post&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="101" label="Non-Causal">
+		<sentence>The &lt;e1&gt;bird&lt;/e1&gt; was put in a fish &lt;e2&gt;tank&lt;/e2&gt;, and a tube was run into the tank.</sentence>
+	</item>
+	<item id="102" label="Non-Causal">
+		<sentence>The &lt;e1&gt;box&lt;/e1&gt; holds three stiff &lt;e2&gt;cardboard tubes&lt;/e2&gt;, each wrapped in now decaying cellophane.</sentence>
+	</item>
+	<item id="103" label="Non-Causal">
+		<sentence>&lt;e1&gt;Bone&lt;/e1&gt; is built up of many &lt;e2&gt;cell&lt;/e2&gt; types and so far we have only investigated human osteoblasts.</sentence>
+	</item>
+	<item id="104" label="Non-Causal">
+		<sentence>The &lt;e1&gt;missis&lt;/e1&gt; won the lottery with a &lt;e2&gt;ticket&lt;/e2&gt; she didn't tell you about.</sentence>
+	</item>
+	<item id="105" label="Non-Causal">
+		<sentence>No material was prepared for the sessions, so the three &lt;e1&gt;musicians&lt;/e1&gt; improvised an album's worth of &lt;e2&gt;material&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="106" label="Cause-Effect((e1,e2))">
+		<sentence>Four of &lt;e1&gt;the entrapments&lt;/e1&gt; resulted in &lt;e2&gt;suffocation&lt;/e2&gt;: a 7-month-old in Gouverneur, N.Y.; a 7-month-old in New Iberia, La.; a 6-month-old in Summersville, W.Va.; and a 9-month-old in Bronx, N.Y.</sentence>
+	</item>
+	<item id="107" label="Non-Causal">
+		<sentence>A locksmith copies and repairs car &lt;e1&gt;keys&lt;/e1&gt; for modern &lt;e2&gt;vehicles&lt;/e2&gt; at a lower cost.</sentence>
+	</item>
+	<item id="108" label="Non-Causal">
+		<sentence>There is in fact a &lt;e1&gt;socialist&lt;/e1&gt; &lt;e2&gt;party&lt;/e2&gt; in America and there are real socialists.</sentence>
+	</item>
+	<item id="109" label="Non-Causal">
+		<sentence>He was the muster-spirit of that glorious &lt;e1&gt;pleiad&lt;/e1&gt; of &lt;e2&gt;warriors&lt;/e2&gt; and sailors who at that epoch used to swarm the Indian seas.</sentence>
+	</item>
+	<item id="110" label="Cause-Effect((e2,e1))">
+		<sentence>I too, get &lt;e1&gt;a headache&lt;/e1&gt; from &lt;e2&gt;wine&lt;/e2&gt;, and was always told that it was the sulfites.</sentence>
+	</item>
+	<item id="111" label="Non-Causal">
+		<sentence>The &lt;e1&gt;car kit&lt;/e1&gt; has a GPS &lt;e2&gt;receiver&lt;/e2&gt; built in that is better than the iPhone's.</sentence>
+	</item>
+	<item id="112" label="Non-Causal">
+		<sentence>The skydiving &lt;e1&gt;scene&lt;/e1&gt; was the best part of the &lt;e2&gt;movie&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="113" label="Non-Causal">
+		<sentence>Here, in exclusive interview &lt;e1&gt;clips&lt;/e1&gt;, he talked about his &lt;e2&gt;career&lt;/e2&gt; and what he thought of today's television.</sentence>
+	</item>
+	<item id="114" label="Cause-Effect((e2,e1))">
+		<sentence>Overall, &lt;e1&gt;the fire&lt;/e1&gt; after &lt;e2&gt;the earthquake&lt;/e2&gt; burned out 7456 houses in over 530 localities.</sentence>
+	</item>
+	<item id="115" label="Non-Causal">
+		<sentence>This page is a &lt;e1&gt;guide&lt;/e1&gt; to the floating &lt;e2&gt;world&lt;/e2&gt; of cyberspace.</sentence>
+	</item>
+	<item id="116" label="Non-Causal">
+		<sentence>The exhibition &lt;e1&gt;profit&lt;/e1&gt; was donated to a &lt;e2&gt;cancer research center&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="117" label="Non-Causal">
+		<sentence>Doctors have inserted GHG &lt;e1&gt;mitigation&lt;/e1&gt; into the &lt;e2&gt;prescriptions&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="118" label="Non-Causal">
+		<sentence>Active &lt;e1&gt;transport&lt;/e1&gt; is a &lt;e2&gt;mechanism&lt;/e2&gt; evolved to mediate traffic across cellular membranes.</sentence>
+	</item>
+	<item id="119" label="Non-Causal">
+		<sentence>More &lt;e1&gt;weapons&lt;/e1&gt; are being delivered to the French &lt;e2&gt;navy&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="120" label="Non-Causal">
+		<sentence>A &lt;e1&gt;data&lt;/e1&gt; &lt;e2&gt;warehouse&lt;/e2&gt; is a place where data is stored for archival purposes.</sentence>
+	</item>
+	<item id="121" label="Non-Causal">
+		<sentence>This comprehensive &lt;e1&gt;book&lt;/e1&gt; discusses both the human and the natural &lt;e2&gt;history&lt;/e2&gt; of the islands of California.</sentence>
+	</item>
+	<item id="122" label="Non-Causal">
+		<sentence>Two hours later, I had a &lt;e1&gt;bottle&lt;/e1&gt; full of warm &lt;e2&gt;water&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="123" label="Non-Causal">
+		<sentence>The whole &lt;e1&gt;company&lt;/e1&gt; migrated into the &lt;e2&gt;country side&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="124" label="Cause-Effect((e2,e1),(e3,e1))">
+		<sentence>&lt;e1&gt;Most deaths&lt;/e1&gt; from &lt;e2&gt;the accident&lt;/e2&gt; were caused by &lt;e3&gt;radiation poisoning&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="125" label="Cause-Effect((e1,e3),(e2,e3))">
+		<sentence>The widespread opinion that &lt;e1&gt;protein&lt;/e1&gt; and &lt;e2&gt;phosphorus&lt;/e2&gt; cause &lt;e3&gt;calcium loss&lt;/e3&gt; is examined.</sentence>
+	</item>
+	<item id="126" label="Non-Causal">
+		<sentence>And one third of the &lt;e1&gt;bench&lt;/e1&gt; of &lt;e2&gt;aldermen&lt;/e2&gt; is exclusively composed of men, which explains the on average lower share of female aldermen than female local councillors.</sentence>
+	</item>
+	<item id="127" label="Non-Causal">
+		<sentence>A &lt;e1&gt;staysail&lt;/e1&gt; &lt;e2&gt;schooner&lt;/e2&gt; has no foresail, but instead carries a main staysail between the masts in addition to the fore staysail ahead of the foremast.</sentence>
+	</item>
+	<item id="128" label="Non-Causal">
+		<sentence>Still segregated in World War I, the U.S. Army was reluctant to use its 93d &lt;e1&gt;division&lt;/e1&gt; of black &lt;e2&gt;soldiers&lt;/e2&gt; in combat and instead assigned the division's three National Guard and one draftee regiments to the French Army.</sentence>
+	</item>
+	<item id="129" label="Non-Causal">
+		<sentence>Many simple DC power &lt;e1&gt;supplies&lt;/e1&gt; regulate the voltage using a shunt &lt;e2&gt;regulator&lt;/e2&gt; such as a zener diode.</sentence>
+	</item>
+	<item id="130" label="Non-Causal">
+		<sentence>A great &lt;e1&gt;wing&lt;/e1&gt; of fluorite &lt;e2&gt;dragons&lt;/e2&gt;, the greatest concentration of the rather solitary dragons ever known, joined the desperate battle with the blues and silvers against Chaos.</sentence>
+	</item>
+	<item id="131" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The drugs&lt;/e1&gt; he sold had caused &lt;e2&gt;the overdose death&lt;/e2&gt; of Matthew Lessard, 19, of Lowell.</sentence>
+	</item>
+	<item id="132" label="Non-Causal">
+		<sentence>Winter is here, and the little fir &lt;e1&gt;tree&lt;/e1&gt; stands lonely in the &lt;e2&gt;forest&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="133" label="Non-Causal">
+		<sentence>Three years ago the coalition organized a strategic &lt;e1&gt;cooperative&lt;/e1&gt; of several farmers &lt;e2&gt;associations&lt;/e2&gt; to export mangos under the Taiwan Mango brand.</sentence>
+	</item>
+	<item id="134" label="Non-Causal">
+		<sentence>The &lt;e1&gt;school&lt;/e1&gt; of &lt;e2&gt;fish&lt;/e2&gt; mentioned in the title poem of this book live at the bottom of the sea, but are somehow addicted to light.</sentence>
+	</item>
+	<item id="135" label="Cause-Effect((e2,e1))">
+		<sentence>Individual donors make a significant difference in addressing &lt;e1&gt;the suffering&lt;/e1&gt; caused by &lt;e2&gt;the economic crisis&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="136" label="Non-Causal">
+		<sentence>The &lt;e1&gt;grandstand&lt;/e1&gt; completes the &lt;e2&gt;concourse&lt;/e2&gt; around the ground, and it will increase seating capacity to where it should be.</sentence>
+	</item>
+	<item id="137" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Chest pain&lt;/e1&gt; from &lt;e2&gt;indigestion&lt;/e2&gt; feels like an intense burning and is usually accompanied by regurgitation and gas.</sentence>
+	</item>
+	<item id="138" label="Cause-Effect((e2,e1),(e3,e2))">
+		<sentence>Each year, many infants and toddlers &lt;e1&gt;die&lt;/e1&gt; due to &lt;e2&gt;suffocation&lt;/e2&gt; from &lt;e3&gt;breathing small objects&lt;/e3&gt; into their breathing passages and lungs.</sentence>
+	</item>
+	<item id="139" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Gross revenues&lt;/e1&gt; from &lt;e2&gt;the selling&lt;/e2&gt; of crude oil in 2003 reached US$11.508 billion or some 112.85 percent of the amount targeted in the 2003 state budget.</sentence>
+	</item>
+	<item id="140" label="Non-Causal">
+		<sentence>Narcotic &lt;e1&gt;goods&lt;/e1&gt; have been imported into several &lt;e2&gt;states&lt;/e2&gt; in Australia.</sentence>
+	</item>
+	<item id="141" label="Cause-Effect((e2,e1),(e2,e3))">
+		<sentence>&lt;e1&gt;Pneumococcal meningitis&lt;/e1&gt; is caused by &lt;e2&gt;pneumococcus bacteria&lt;/e2&gt;, which also cause &lt;e3&gt;several diseases&lt;/e3&gt; of the respiratory system, including pneumonia.</sentence>
+	</item>
+	<item id="142" label="Non-Causal">
+		<sentence>This includes those &lt;e1&gt;rules&lt;/e1&gt; governing &lt;e2&gt;transfers&lt;/e2&gt;, academic eligibility, age requirements, and the number of consecutive seasons of athletic eligibility beyond grade eight.</sentence>
+	</item>
+	<item id="143" label="Non-Causal">
+		<sentence>The &lt;e1&gt;insurance cost&lt;/e1&gt; has been added into the &lt;e2&gt;shipping price&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="144" label="Non-Causal">
+		<sentence>A happy &lt;e1&gt;resident&lt;/e1&gt; feels part of their &lt;e2&gt;association&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="145" label="Non-Causal">
+		<sentence>The &lt;e1&gt;water&lt;/e1&gt; is running into the overflow &lt;e2&gt;pipe&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="146" label="Non-Causal">
+		<sentence>The &lt;e1&gt;club&lt;/e1&gt; consists of 902 condominium &lt;e2&gt;homes&lt;/e2&gt; each with a unique golf course or lake view.</sentence>
+	</item>
+	<item id="147" label="Non-Causal">
+		<sentence>It's a &lt;e1&gt;file cabinet&lt;/e1&gt; in Washington with an &lt;e2&gt;IOU&lt;/e2&gt; in it.</sentence>
+	</item>
+	<item id="148" label="Non-Causal">
+		<sentence>The &lt;e1&gt;president&lt;/e1&gt; used the &lt;e2&gt;pretext&lt;/e2&gt; of national security.</sentence>
+	</item>
+	<item id="149" label="Non-Causal">
+		<sentence>Out of the early morning haze, a &lt;e1&gt;convoy&lt;/e1&gt; of articulated &lt;e2&gt;lorries&lt;/e2&gt; pulls into the Gashouder square.</sentence>
+	</item>
+	<item id="150" label="Non-Causal">
+		<sentence>The kennels of hounds and &lt;e1&gt;mews&lt;/e1&gt; of &lt;e2&gt;hawks&lt;/e2&gt; were a form of conspicuous consumption that only a noble could afford as so mark his status.</sentence>
+	</item>
+	<item id="151" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Eye discomfort&lt;/e1&gt; from &lt;e2&gt;this staring effect&lt;/e2&gt; is exacerbated by low humidity.</sentence>
+	</item>
+	<item id="152" label="Non-Causal">
+		<sentence>The murder has dragged the &lt;e1&gt;victim&lt;/e1&gt; into the &lt;e2&gt;water&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="153" label="Non-Causal">
+		<sentence>The &lt;e1&gt;door locks&lt;/e1&gt; with a sliding &lt;e2&gt;bar&lt;/e2&gt; hidden in the carved piece across the center of the door.</sentence>
+	</item>
+	<item id="154" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The announcement&lt;/e1&gt; of the game caused &lt;e2&gt;a stir&lt;/e2&gt; on the web yesterday, with the Weekly Standard launching a protest campaign encouraging readers to e-mail Microsoft and T-Enterprise, the out-of-its-depth company that had hired actual Gitmo detainee Moazzam Begg as a consultant on the game.</sentence>
+	</item>
+	<item id="155" label="Cause-Effect((e1,e2),(e1,e3))">
+		<sentence>&lt;e1&gt;Zinc&lt;/e1&gt; is essential for &lt;e2&gt;growth&lt;/e2&gt; and &lt;e3&gt;cell division&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="156" label="Non-Causal">
+		<sentence>The average &lt;e1&gt;soldier&lt;/e1&gt; joins your &lt;e2&gt;army&lt;/e2&gt; for the pay, and if you cannot pay him he will walk away and go back to get a job as a farmer or laborer.</sentence>
+	</item>
+	<item id="157" label="Non-Causal">
+		<sentence>In the Western Province the &lt;e1&gt;starch&lt;/e1&gt; is stored in woven palm leaf &lt;e2&gt;bundles&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="158" label="Cause-Effect((e1,e2),(e2,e3))">
+		<sentence>&lt;e1&gt;The steam&lt;/e1&gt; caused &lt;e2&gt;a backpressure&lt;/e2&gt; on the VTD, resulting in &lt;e3&gt;the rupture disc opening&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="159" label="Non-Causal">
+		<sentence>He put the &lt;e1&gt;posts&lt;/e1&gt; in &lt;e2&gt;chronological order&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="160" label="Non-Causal">
+		<sentence>The record was a &lt;e1&gt;sheet&lt;/e1&gt; of paper stored in a &lt;e2&gt;file cabinet&lt;/e2&gt; or an image on microform.</sentence>
+	</item>
+	<item id="161" label="Non-Causal">
+		<sentence>Peg bags are the medium sized bags that hang in the candy &lt;e1&gt;isle&lt;/e1&gt; of the &lt;e2&gt;store&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="162" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Earthquakes&lt;/e1&gt; are caused by &lt;e2&gt;the discharge&lt;/e2&gt; of accumulated along geologic faults.</sentence>
+	</item>
+	<item id="163" label="Non-Causal">
+		<sentence>MDI &lt;e1&gt;implants&lt;/e1&gt; were placed into the &lt;e2&gt;jawbone&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="164" label="Non-Causal">
+		<sentence>We dissolved the &lt;e1&gt;contents&lt;/e1&gt; of one &lt;e2&gt;packet&lt;/e2&gt; in a carafe of water and ran the brew cycle.</sentence>
+	</item>
+	<item id="165" label="Non-Causal">
+		<sentence>The nice thing about the &lt;e1&gt;title&lt;/e1&gt; of the first &lt;e2&gt;book&lt;/e2&gt; was that as soon as you saw the the cover, or even read the title, you knew immediately about the blog without having to read a review or a &quot;to get more info&quot; blurb.</sentence>
+	</item>
+	<item id="166" label="Non-Causal">
+		<sentence>Our &lt;e1&gt;microwave&lt;/e1&gt; has a turn-able &lt;e2&gt;turntable&lt;/e2&gt; inside and dial-able knobs outside.</sentence>
+	</item>
+	<item id="167" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Muscle fatigue&lt;/e1&gt; is the number one cause of &lt;e2&gt;arm muscle pain&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="168" label="Non-Causal">
+		<sentence>DOJ released a &lt;e1&gt;probe&lt;/e1&gt; into Siegelman &lt;e2&gt;prosecution&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="169" label="Cause-Effect((e1,e3),(e1,e4),(e2,e3),(e2,e4))">
+		<sentence>&lt;e1&gt;Menopause&lt;/e1&gt; and &lt;e2&gt;PMS&lt;/e2&gt; cause &lt;e3&gt;stress&lt;/e3&gt; and &lt;e4&gt;anxiety&lt;/e4&gt; even without imbalanced hormones.</sentence>
+	</item>
+	<item id="170" label="Non-Causal">
+		<sentence>It is best to use bold flavors in &lt;e1&gt;herb&lt;/e1&gt; &lt;e2&gt;butter&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="171" label="Non-Causal">
+		<sentence>Franken's &lt;e1&gt;uncle&lt;/e1&gt;, who was in the Russian army, liberated Auschwitz with Barry's &lt;e2&gt;uncle&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="172" label="Non-Causal">
+		<sentence>One &lt;e1&gt;drift&lt;/e1&gt; of the &lt;e2&gt;sheep&lt;/e2&gt; was marked with a red cross, and the other drift with a black patch.</sentence>
+	</item>
+	<item id="173" label="Non-Causal">
+		<sentence>Cuba is already a customer and now the state development bank, BNDES, plans to finance the export of ethanol knowhow to Africa, where the hopes of countries such as Ghana are pinned on the &lt;e1&gt;jatropha&lt;/e1&gt; &lt;e2&gt;plant&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="174" label="Non-Causal">
+		<sentence>The &lt;e1&gt;violence&lt;/e1&gt; in Indonesia's Aceh province has been discussed at &lt;e2&gt;talks&lt;/e2&gt; in Jakarta between President Wahid and the visiting Malaysian prime minister, Mahathir Mohamad.</sentence>
+	</item>
+	<item id="175" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The presentation&lt;/e1&gt; generated &lt;e2&gt;debate&lt;/e2&gt; and there was general discussion on how journalists can better equip themselves to handle the challenges.</sentence>
+	</item>
+	<item id="176" label="Non-Causal">
+		<sentence>The wrathful &lt;e1&gt;goddess&lt;/e1&gt; turned her into a &lt;e2&gt;crane&lt;/e2&gt; and proclaimed that her bird descendants should wage eternal war on the Pygmy folk.</sentence>
+	</item>
+	<item id="177" label="Non-Causal">
+		<sentence>A &lt;e1&gt;signal&lt;/e1&gt; was sent to the &lt;e2&gt;process&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="178" label="Non-Causal">
+		<sentence>This is the &lt;e1&gt;site&lt;/e1&gt; deep inside the &lt;e2&gt;earth&lt;/e2&gt; where fault movement begin.</sentence>
+	</item>
+	<item id="179" label="Non-Causal">
+		<sentence>On the floor of the passenger side, they found a &lt;e1&gt;plastic bag&lt;/e1&gt; with &lt;e2&gt;marijuana&lt;/e2&gt; inside.</sentence>
+	</item>
+	<item id="180" label="Non-Causal">
+		<sentence>The &lt;e1&gt;ice cores&lt;/e1&gt; were shipped to clean &lt;e2&gt;labs&lt;/e2&gt; for examination.</sentence>
+	</item>
+	<item id="181" label="Non-Causal">
+		<sentence>&lt;e1&gt;Asparagus&lt;/e1&gt; is a natural cure for &lt;e2&gt;cancer&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="182" label="Cause-Effect((e1,e2),(e1,e3))">
+		<sentence>&lt;e1&gt;Germs&lt;/e1&gt; are microscopic organisms that cause &lt;e2&gt;sickness&lt;/e2&gt; or &lt;e3&gt;disease&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="183" label="Non-Causal">
+		<sentence>The &lt;e1&gt;exhibit&lt;/e1&gt; features the winning &lt;e2&gt;designs&lt;/e2&gt; in both the professional and student categories, as well as other outstanding entries.</sentence>
+	</item>
+	<item id="184" label="Cause-Effect((e2,e1))">
+		<sentence>Method according to claim 1, characterized in that the time duration of the quality reduction is limited at least to the duration of &lt;e1&gt;the interference&lt;/e1&gt; triggered by &lt;e2&gt;the switching process&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="185" label="Non-Causal">
+		<sentence>The &lt;e1&gt;decedent&lt;/e1&gt; had left the nursery supply company's main &lt;e2&gt;yard&lt;/e2&gt; earlier in the day.</sentence>
+	</item>
+	<item id="186" label="Non-Causal">
+		<sentence>A &lt;e1&gt;question&lt;/e1&gt; was raised in regard to the public &lt;e2&gt;announcement&lt;/e2&gt; of the names of the three finalists.</sentence>
+	</item>
+	<item id="187" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Constipation&lt;/e1&gt; is the most common cause of &lt;e2&gt;abdominal pain&lt;/e2&gt; in the pediatric population.</sentence>
+	</item>
+	<item id="188" label="Cause-Effect((e2,e1))">
+		<sentence>When &lt;e1&gt;the force&lt;/e1&gt; was generated via &lt;e2&gt;the joystick&lt;/e2&gt;, the reproduced force matched the original force much more accurately.</sentence>
+	</item>
+	<item id="189" label="Cause-Effect((e3,e1),(e3,e2),(e4,e1),(e4,e2),(e5,e1),(e5,e2))">
+		<sentence>There were &lt;e1&gt;setbacks&lt;/e1&gt; and &lt;e2&gt;technical problems&lt;/e2&gt; that ensued from &lt;e3&gt;the location design&lt;/e3&gt;, &lt;e4&gt;flooding&lt;/e4&gt;, and &lt;e5&gt;moisture&lt;/e5&gt; that plagued the winery and bumped up the investment cost beyond the initial budgetary estimates.</sentence>
+	</item>
+	<item id="190" label="Cause-Effect((e2,e1))">
+		<sentence>The poet Essex Hemphill conquered &lt;e1&gt;sorrow&lt;/e1&gt; after &lt;e2&gt;the loss&lt;/e2&gt; of a friend by taking up the cause of that friend.</sentence>
+	</item>
+	<item id="191" label="Non-Causal">
+		<sentence>An &lt;e1&gt;article&lt;/e1&gt; has been prepared on patient self &lt;e2&gt;testing&lt;/e2&gt; of oral anticoagulation.</sentence>
+	</item>
+	<item id="192" label="Non-Causal">
+		<sentence>&lt;e1&gt;Investment&lt;/e1&gt; flows into emerging &lt;e2&gt;markets&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="193" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;An oil spill&lt;/e1&gt; caused by &lt;e2&gt;a collision&lt;/e2&gt; between a ship and a barge closed the ship channel servicing the nation's second largest port.</sentence>
+	</item>
+	<item id="194" label="Non-Causal">
+		<sentence>The NRMA's president, Wendy Machin, and the chief executive, Tony Stuart, were among members of the &lt;e1&gt;party&lt;/e1&gt; which viewed the concert in a private &lt;e2&gt;box&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="195" label="Non-Causal">
+		<sentence>In a large oval &lt;e1&gt;crock pot&lt;/e1&gt; I've had some &lt;e2&gt;hams&lt;/e2&gt; that can fit in whole.</sentence>
+	</item>
+	<item id="196" label="Non-Causal">
+		<sentence>Most &lt;e1&gt;women&lt;/e1&gt; use a portable &lt;e2&gt;pump&lt;/e2&gt; for this purpose.</sentence>
+	</item>
+	<item id="197" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The changes&lt;/e1&gt; now seen in the endometrium are caused by &lt;e2&gt;a hormone&lt;/e2&gt; called progesterone.</sentence>
+	</item>
+	<item id="198" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The incident&lt;/e1&gt; was caused by &lt;e2&gt;the entry&lt;/e2&gt; of high pressure gas from a deep formation that got confined in the porthole of the well.</sentence>
+	</item>
+	<item id="199" label="Non-Causal">
+		<sentence>The key matches the private &lt;e1&gt;key&lt;/e1&gt; that the &lt;e2&gt;sender&lt;/e2&gt; used to encrypt it.</sentence>
+	</item>
+	<item id="200" label="Non-Causal">
+		<sentence>A &lt;e1&gt;songwriter&lt;/e1&gt; is someone who writes the &lt;e2&gt;lyrics&lt;/e2&gt;, as well as the musical composition or melody to songs.</sentence>
+	</item>
+	<item id="201" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The swelling&lt;/e1&gt; of the vocal fold mucosa is caused by &lt;e2&gt;smoking&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="202" label="Non-Causal">
+		<sentence>The latter &lt;e1&gt;course&lt;/e1&gt; explained the biological &lt;e2&gt;phenomena&lt;/e2&gt; in a mathematical way.</sentence>
+	</item>
+	<item id="203" label="Non-Causal">
+		<sentence>The pillow of Western nations is a &lt;e1&gt;cushion&lt;/e1&gt; of linen or other material, stuffed with &lt;e2&gt;feathers&lt;/e2&gt;, down, hair or wool.</sentence>
+	</item>
+	<item id="204" label="Non-Causal">
+		<sentence>A western regiment was behind it, a &lt;e1&gt;regiment&lt;/e1&gt; of &lt;e2&gt;hunters&lt;/e2&gt; and marksmen.</sentence>
+	</item>
+	<item id="205" label="Non-Causal">
+		<sentence>The lower &lt;e1&gt;house&lt;/e1&gt; was composed of elected &lt;e2&gt;representatives&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="206" label="Non-Causal">
+		<sentence>The corporate &lt;e1&gt;regulator&lt;/e1&gt; has been dragged into undertaker's &lt;e2&gt;inquiry&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="207" label="Non-Causal">
+		<sentence>The remaining &lt;e1&gt;articles&lt;/e1&gt; run the gamut of &lt;e2&gt;sociological research&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="208" label="Non-Causal">
+		<sentence>This time the &lt;e1&gt;lobster&lt;/e1&gt; was full of its superb &lt;e2&gt;flavor&lt;/e2&gt;, which suffused even into the buttered corn.</sentence>
+	</item>
+	<item id="209" label="Non-Causal">
+		<sentence>The &lt;e1&gt;money&lt;/e1&gt; was locked in a &lt;e2&gt;safe&lt;/e2&gt; on the premises, but it was on a timelock and would not have opened until 9am.</sentence>
+	</item>
+	<item id="210" label="Non-Causal">
+		<sentence>The Commission is accepting &lt;e1&gt;comments&lt;/e1&gt; regarding the program's &lt;e2&gt;adherence&lt;/e2&gt; to the Accreditation Standards.</sentence>
+	</item>
+	<item id="211" label="Non-Causal">
+		<sentence>Options that are core components of the &lt;e1&gt;plan&lt;/e1&gt; include: a benefit period, an elimination period, a maximum benefit percentage of salary and a maximum &lt;e2&gt;weekly benefit&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="212" label="Non-Causal">
+		<sentence>My wife mistakenly poured &lt;e1&gt;water&lt;/e1&gt; into the valve &lt;e2&gt;cover&lt;/e2&gt; of her 1999 Sebring when it began overheating.</sentence>
+	</item>
+	<item id="213" label="Non-Causal">
+		<sentence>National Geographic videos include several tapes dealing with a &lt;e1&gt;shrewdness&lt;/e1&gt; of &lt;e2&gt;apes&lt;/e2&gt; that dwells in Zaire.</sentence>
+	</item>
+	<item id="214" label="Non-Causal">
+		<sentence>Those who staged the coup appointed a civilian prime minister and a &lt;e1&gt;cabinet&lt;/e1&gt; of civilian &lt;e2&gt;technocrats&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="215" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The cysts&lt;/e1&gt; are caused by &lt;e2&gt;chronic inflammation&lt;/e2&gt; of the perichondrium with production of serous fluid between the perichondrium and cartilage.</sentence>
+	</item>
+	<item id="216" label="Non-Causal">
+		<sentence>Thermocerin is a powerful fat &lt;e1&gt;burner&lt;/e1&gt; that works with a combination of natural &lt;e2&gt;herbs&lt;/e2&gt; such as White and Green Tea, Capsaicin, and Caffeine.</sentence>
+	</item>
+	<item id="217" label="Non-Causal">
+		<sentence>The &lt;e1&gt;grenade&lt;/e1&gt; was found inside a &lt;e2&gt;sock&lt;/e2&gt; Sunday morning.</sentence>
+	</item>
+	<item id="218" label="Non-Causal">
+		<sentence>The remainder of the &lt;e1&gt;breast&lt;/e1&gt; is composed of connective &lt;e2&gt;tissue&lt;/e2&gt; , adipose tissue , and Cooper's ligaments.</sentence>
+	</item>
+	<item id="219" label="Non-Causal">
+		<sentence>The &lt;e1&gt;parable&lt;/e1&gt; related the &lt;e2&gt;rewards&lt;/e2&gt; for those who invested successfully and the punishment for those who did not.</sentence>
+	</item>
+	<item id="220" label="Non-Causal">
+		<sentence>The polluted &lt;e1&gt;water&lt;/e1&gt; has been poured into a local &lt;e2&gt;river&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="221" label="Non-Causal">
+		<sentence>Data shows that public &lt;e1&gt;concern&lt;/e1&gt; about the &lt;e2&gt;economy&lt;/e2&gt; has moved into the top five issues facing the country.</sentence>
+	</item>
+	<item id="222" label="Non-Causal">
+		<sentence>You noticed the three numbers at the bottom of a &lt;e1&gt;fertilizer&lt;/e1&gt; &lt;e2&gt;package&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="223" label="Cause-Effect((e2,e1))">
+		<sentence>She mentioned &lt;e1&gt;the scandal&lt;/e1&gt; caused by &lt;e2&gt;a BBC documentary&lt;/e2&gt; on the treatment of children in a special-needs home and asked how the state had responded to these.</sentence>
+	</item>
+	<item id="224" label="Non-Causal">
+		<sentence>The &lt;e1&gt;toy&lt;/e1&gt; was inside a &lt;e2&gt;box&lt;/e2&gt; and had been left on the minivan.</sentence>
+	</item>
+	<item id="225" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The cow&lt;/e1&gt; makes &lt;e2&gt;a sound&lt;/e2&gt; called lowing, also known as mooing.</sentence>
+	</item>
+	<item id="226" label="Non-Causal">
+		<sentence>The &lt;e1&gt;furnace&lt;/e1&gt; &lt;e2&gt;thermostat&lt;/e2&gt; is the nerve center of your home heating system.</sentence>
+	</item>
+	<item id="227" label="Non-Causal">
+		<sentence>&lt;e1&gt;Goatfish&lt;/e1&gt; use a pair of large chin &lt;e2&gt;barbels&lt;/e2&gt; to probe the sea bottom to detect buried prey.</sentence>
+	</item>
+	<item id="228" label="Non-Causal">
+		<sentence>Both &lt;e1&gt;novels&lt;/e1&gt; tackle with political &lt;e2&gt;questions&lt;/e2&gt; in a direct manner.</sentence>
+	</item>
+	<item id="229" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The movie&lt;/e1&gt; gives &lt;e2&gt;the inaccurate impression&lt;/e2&gt; that the Apaches all surrendered.</sentence>
+	</item>
+	<item id="230" label="Non-Causal">
+		<sentence>Paul the &lt;e1&gt;novelist&lt;/e1&gt; has a &lt;e2&gt;computer&lt;/e2&gt; but uses his old Smith Corona manual.</sentence>
+	</item>
+	<item id="231" label="Cause-Effect((e2,e1))">
+		<sentence>This is one of the more common causes of &lt;e1&gt;hair loss&lt;/e1&gt; caused by &lt;e2&gt;stress&lt;/e2&gt; and when you are losing hair because of this your hair stops growing and lies dormant.</sentence>
+	</item>
+	<item id="232" label="Cause-Effect((e1,e4),(e2,e1),(e3,e4))">
+		<sentence>But &lt;e1&gt;the discomfort&lt;/e1&gt; caused by &lt;e2&gt;the ointment&lt;/e2&gt; and &lt;e3&gt;the duration&lt;/e3&gt; of treatment often result in &lt;e4&gt;non-compliance&lt;/e4&gt;.</sentence>
+	</item>
+	<item id="233" label="Non-Causal">
+		<sentence>They shop there for a huge selection of furniture and table legs, carved and turned &lt;e1&gt;furniture&lt;/e1&gt; &lt;e2&gt;legs&lt;/e2&gt; and feet, wood turnings and more.</sentence>
+	</item>
+	<item id="234" label="Non-Causal">
+		<sentence>The &lt;e1&gt;president&lt;/e1&gt; of this &lt;e2&gt;corporation&lt;/e2&gt; was one of its stockholders.</sentence>
+	</item>
+	<item id="235" label="Non-Causal">
+		<sentence>Tissue damage and &lt;e1&gt;electrode&lt;/e1&gt; &lt;e2&gt;corrosion&lt;/e2&gt; are both associatcd with high charge density stimulation.</sentence>
+	</item>
+	<item id="236" label="Non-Causal">
+		<sentence>The progenitor &lt;e1&gt;cells&lt;/e1&gt; migrated into the &lt;e2&gt;tumor&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="237" label="Non-Causal">
+		<sentence>The &lt;e1&gt;origin&lt;/e1&gt; of &lt;e2&gt;berserkers&lt;/e2&gt; is unknown, although Tacitus mentions groups of Germanic warriors with berserk-like fury.</sentence>
+	</item>
+	<item id="238" label="Cause-Effect((e2,e1),(e3,e1))">
+		<sentence>Oak root and chamomile provide a gentle astringent that helps reduce inflammation and calms &lt;e1&gt;skin irritation&lt;/e1&gt; from &lt;e2&gt;the sun&lt;/e2&gt; and &lt;e3&gt;environmental pollutants&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="239" label="Non-Causal">
+		<sentence>Dartmouth nearly narrowed the gap to one goal when a &lt;e1&gt;slapshot&lt;/e1&gt; popped out of the &lt;e2&gt;glove&lt;/e2&gt; of Princeton goalie Zane Kalemba '10.</sentence>
+	</item>
+	<item id="240" label="Cause-Effect((e1,e2))">
+		<sentence>When I start the engine &lt;e1&gt;the car&lt;/e1&gt; makes &lt;e2&gt;a screaching sound&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="241" label="Cause-Effect((e3,e1),(e3,e2),(e4,e3))">
+		<sentence>This year's Nobel Laureates in Physiology or Medicine made the remarkable and unexpected discovery that &lt;e1&gt;inflammation&lt;/e1&gt; in the stomach  as well as &lt;e2&gt;ulceration&lt;/e2&gt; of the stomach or duodenum  is the result of &lt;e3&gt;an infection&lt;/e3&gt; of the stomach caused by &lt;e4&gt;the bacterium Helicobacter pylori&lt;/e4&gt;.</sentence>
+	</item>
+	<item id="242" label="Non-Causal">
+		<sentence>The farmers and city officials in the region have tried to get state money to move the &lt;e1&gt;farmers&lt;/e1&gt; &lt;e2&gt;market&lt;/e2&gt; into a first-class operation and tourist attraction.</sentence>
+	</item>
+	<item id="243" label="Cause-Effect((e2,e1))">
+		<sentence>Seniors get &lt;e1&gt;much joy&lt;/e1&gt; from &lt;e2&gt;animals&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="244" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The largest landslide&lt;/e1&gt; triggered by &lt;e2&gt;the earthquake&lt;/e2&gt; is located approximately 32 kilometers southeast of Muzafarrabad in a tributary valley of the Jhelum River.</sentence>
+	</item>
+	<item id="245" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The transmitter&lt;/e1&gt; emits &lt;e2&gt;a constant radio signal&lt;/e2&gt; to crea.</sentence>
+	</item>
+	<item id="246" label="Non-Causal">
+		<sentence>Once outside, the python was placed in a &lt;e1&gt;bag&lt;/e1&gt;, which was put inside a dog &lt;e2&gt;crate&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="247" label="Non-Causal">
+		<sentence>This classic Huffman photograph pictures the cow hands on their way to set up camp with their &lt;e1&gt;remuda&lt;/e1&gt; of &lt;e2&gt;geldings&lt;/e2&gt; trailing behind.</sentence>
+	</item>
+	<item id="248" label="Non-Causal">
+		<sentence>Climate Hackers dumped &lt;e1&gt;iron&lt;/e1&gt; into the &lt;e2&gt;ocean&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="249" label="Non-Causal">
+		<sentence>The &lt;e1&gt;skeleton&lt;/e1&gt; was discovered inside a Neolithic-age &lt;e2&gt;tomb&lt;/e2&gt; unearthed in Yumuktepe Hoyuk of the southern Mersin province.</sentence>
+	</item>
+	<item id="250" label="Non-Causal">
+		<sentence>In &quot;Prologue,&quot; the youthful &lt;e1&gt;scientist&lt;/e1&gt; splits open a hailstone with a violin &lt;e2&gt;string&lt;/e2&gt;, the only sharp edge available.</sentence>
+	</item>
+	<item id="251" label="Cause-Effect((e2,e1))">
+		<sentence>These are all symptoms of &lt;e1&gt;the muscle paralysis&lt;/e1&gt; caused by &lt;e2&gt;the bacterial toxin&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="252" label="Non-Causal">
+		<sentence>Seven &lt;e1&gt;tears&lt;/e1&gt; have flown into the &lt;e2&gt;river&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="253" label="Non-Causal">
+		<sentence>The 08 campaign green &lt;e1&gt;jobs&lt;/e1&gt; was the main talking point of any &lt;e2&gt;speech&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="254" label="Non-Causal">
+		<sentence>The expressive colour, contrasting with the blackness of an apocalyptic sky, the chiaroscuro that accentuates the insubstantial limbs, and the desert landscape and &lt;e1&gt;pile&lt;/e1&gt; of &lt;e2&gt;excrement&lt;/e2&gt; dominating the scene express Miro's profound pessimism.</sentence>
+	</item>
+	<item id="255" label="Non-Causal">
+		<sentence>Every &lt;e1&gt;municipality&lt;/e1&gt; in Ontario is a member of the &lt;e2&gt;corporation&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="256" label="Non-Causal">
+		<sentence>When Frances was 13, she read an article about a &lt;e1&gt;woman&lt;/e1&gt; who escaped an unhappy &lt;e2&gt;marriage&lt;/e2&gt; and went to Kenya.</sentence>
+	</item>
+	<item id="257" label="Non-Causal">
+		<sentence>NUS today responded to the Government's &lt;e1&gt;announcement&lt;/e1&gt; of the long-awaited &lt;e2&gt;review&lt;/e2&gt; of university funding.</sentence>
+	</item>
+	<item id="258" label="Non-Causal">
+		<sentence>Tidal is a major departure for Cisco, a switch and &lt;e1&gt;router&lt;/e1&gt; &lt;e2&gt;company&lt;/e2&gt; that in the last year has been on an acquisition binge buying a number of Web 2.0 application firms.</sentence>
+	</item>
+	<item id="259" label="Non-Causal">
+		<sentence>The &lt;e1&gt;director&lt;/e1&gt;, Robert Connolly, who co-wrote the script with David Williamson, assembles the pieces with great methodical &lt;e2&gt;logic&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="260" label="Non-Causal">
+		<sentence>He encourages &lt;e1&gt;students&lt;/e1&gt; to read beyond the mandatory &lt;e2&gt;texts&lt;/e2&gt; in order to prepare for his exam.</sentence>
+	</item>
+	<item id="261" label="Non-Causal">
+		<sentence>&lt;e1&gt;Cruisers&lt;/e1&gt; and large yachts have much more sophisticated &lt;e2&gt;fittings&lt;/e2&gt; that that require more skills.</sentence>
+	</item>
+	<item id="262" label="Non-Causal">
+		<sentence>Well my husband was still in the shower and the &lt;e1&gt;remote&lt;/e1&gt; was in the &lt;e2&gt;desk&lt;/e2&gt; in the back room.</sentence>
+	</item>
+	<item id="263" label="Non-Causal">
+		<sentence>A child is an individual with personal oppinions, feelings and needs, just as adults are, that is what the &lt;e1&gt;convention&lt;/e1&gt; of children's &lt;e2&gt;rights&lt;/e2&gt; says.</sentence>
+	</item>
+	<item id="264" label="Non-Causal">
+		<sentence>The &lt;e1&gt;elevator&lt;/e1&gt; &lt;e2&gt;operator&lt;/e2&gt; is a meditation on the simultaneous power and futility of hope.</sentence>
+	</item>
+	<item id="265" label="Non-Causal">
+		<sentence>The painting was one of the first used as a poster in an &lt;e1&gt;advertising campaign&lt;/e1&gt; for &lt;e2&gt;soap powder&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="266" label="Non-Causal">
+		<sentence>Also in the &lt;e1&gt;programme&lt;/e1&gt; we consider the subject of &lt;e2&gt;happiness&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="267" label="Cause-Effect((e2,e1))">
+		<sentence>Patients with &lt;e1&gt;adenomyosis experience pain&lt;/e1&gt; from &lt;e2&gt;this disease&lt;/e2&gt; in the early 30's.</sentence>
+	</item>
+	<item id="268" label="Non-Causal">
+		<sentence>The RCMP released its &lt;e1&gt;report&lt;/e1&gt; this week on the &lt;e2&gt;death&lt;/e2&gt; of Robert Dziekanski.</sentence>
+	</item>
+	<item id="269" label="Non-Causal">
+		<sentence>Scarcely had we reached the edge of the wood when Turk darted past us, barking furiously at a &lt;e1&gt;troop&lt;/e1&gt; of &lt;e2&gt;monkeys&lt;/e2&gt;, who were gambolling on the turf.</sentence>
+	</item>
+	<item id="270" label="Non-Causal">
+		<sentence>We store the &lt;e1&gt;cards&lt;/e1&gt; in a matching &lt;e2&gt;box&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="271" label="Non-Causal">
+		<sentence>The lure is a treat that is held in the owners hand, and the &lt;e1&gt;ferret&lt;/e1&gt; lifts its &lt;e2&gt;paw&lt;/e2&gt; to try to get to the treat.</sentence>
+	</item>
+	<item id="272" label="Non-Causal">
+		<sentence>Like a &lt;e1&gt;battalion&lt;/e1&gt; of medieval &lt;e2&gt;archers&lt;/e2&gt;, these plasma cells let fly their antibodies, which travel to their targets on the outer surface of harmful bacteria.</sentence>
+	</item>
+	<item id="273" label="Non-Causal">
+		<sentence>In many countries, the national association is a &lt;e1&gt;federation&lt;/e1&gt; of various Scout &lt;e2&gt;associations&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="274" label="Non-Causal">
+		<sentence>Japanese commuters look at a &lt;e1&gt;clock&lt;/e1&gt; inside a Tokyo &lt;e2&gt;train station&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="275" label="Non-Causal">
+		<sentence>To prepare for his exam, the &lt;e1&gt;student&lt;/e1&gt; visited the ISA &lt;e2&gt;website&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="276" label="Non-Causal">
+		<sentence>Someone has blown &lt;e1&gt;soot&lt;/e1&gt; into my &lt;e2&gt;face&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="277" label="Non-Causal">
+		<sentence>A human &lt;e1&gt;finger&lt;/e1&gt; was found in a &lt;e2&gt;can&lt;/e2&gt; of menudo soup.</sentence>
+	</item>
+	<item id="278" label="Non-Causal">
+		<sentence>Narrative &lt;e1&gt;identity&lt;/e1&gt; takes part in the story's &lt;e2&gt;movement&lt;/e2&gt;, in the dialectic between order and disorder.</sentence>
+	</item>
+	<item id="279" label="Non-Causal">
+		<sentence>The &lt;e1&gt;news&lt;/e1&gt; that the &lt;e2&gt;stock-index futures&lt;/e2&gt; have been approved stimulated Wednesday's market.</sentence>
+	</item>
+	<item id="280" label="Non-Causal">
+		<sentence>My hand was resting on the &lt;e1&gt;arm&lt;/e1&gt; of the &lt;e2&gt;chair&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="281" label="Non-Causal">
+		<sentence>Within minutes of last night's terrorist attacks in Mumbai in India, &lt;e1&gt;blogs&lt;/e1&gt; and social networks were buzzing with &lt;e2&gt;news&lt;/e2&gt;, photos and eyewitness accounts.</sentence>
+	</item>
+	<item id="282" label="Non-Causal">
+		<sentence>But Pradyumna did not die, even when he was digested in the &lt;e1&gt;belly&lt;/e1&gt; of the &lt;e2&gt;fish&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="283" label="Non-Causal">
+		<sentence>The first five-day &lt;e1&gt;workshop&lt;/e1&gt; introduced &lt;e2&gt;tools&lt;/e2&gt; for identifying and exploiting market opportunities.</sentence>
+	</item>
+	<item id="284" label="Non-Causal">
+		<sentence>On returning home, the patient's &lt;e1&gt;grandmother&lt;/e1&gt; applied a &lt;e2&gt;poultice&lt;/e2&gt; to the child's ankle overnight with the aim of reducing pain and inflammation.</sentence>
+	</item>
+	<item id="285" label="Non-Causal">
+		<sentence>The study found that people who took the &lt;e1&gt;combination&lt;/e1&gt; of cholinesterase &lt;e2&gt;inhibitors&lt;/e2&gt;  and Memantine, showed a significantly slower rate of cognitve decline than those who took only a cholinesterase inhibitor or no drug.</sentence>
+	</item>
+	<item id="286" label="Non-Causal">
+		<sentence>The site has a &lt;e1&gt;lounge&lt;/e1&gt; of dedicated &lt;e2&gt;lizards&lt;/e2&gt; who vote out anyone with whom they do not agree.</sentence>
+	</item>
+	<item id="287" label="Non-Causal">
+		<sentence>He posted his &lt;e1&gt;gifts&lt;/e1&gt; to a military &lt;e2&gt;base&lt;/e2&gt; in Middle East Asia.</sentence>
+	</item>
+	<item id="288" label="Non-Causal">
+		<sentence>That &lt;e1&gt;box&lt;/e1&gt; was in a &lt;e2&gt;chest&lt;/e2&gt; that had been locked since at least the early 1800s.</sentence>
+	</item>
+	<item id="289" label="Non-Causal">
+		<sentence>The north &lt;e1&gt;side&lt;/e1&gt; of the street accommodated a gas &lt;e2&gt;station&lt;/e2&gt; on the corner.</sentence>
+	</item>
+	<item id="290" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Lymphedema&lt;/e1&gt; is an abnormal build-up of fluid that causes &lt;e2&gt;swelling&lt;/e2&gt;, most often in the arms or legs.</sentence>
+	</item>
+	<item id="291" label="Non-Causal">
+		<sentence>The rest of the world has stuffed &lt;e1&gt;communism&lt;/e1&gt; into the &lt;e2&gt;dustbin&lt;/e2&gt; of history.</sentence>
+	</item>
+	<item id="292" label="Cause-Effect((e2,e1),(e3,e1))">
+		<sentence>Generally it appears that most of &lt;e1&gt;the damage&lt;/e1&gt; was caused by &lt;e2&gt;the winds&lt;/e2&gt; and &lt;e3&gt;the rough seas&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="293" label="Non-Causal">
+		<sentence>The &lt;e1&gt;infant&lt;/e1&gt; was born in a &lt;e2&gt;condition&lt;/e2&gt; of shock and died in ten minutes.</sentence>
+	</item>
+	<item id="294" label="Cause-Effect((e2,e1),(e3,e1),(e4,e1),(e5,e1))">
+		<sentence>Aware of &lt;e1&gt;the suffering&lt;/e1&gt; caused by &lt;e2&gt;exploitation&lt;/e2&gt;, &lt;e3&gt;social injustice&lt;/e3&gt;, &lt;e4&gt;stealing&lt;/e4&gt;, and &lt;e5&gt;oppression&lt;/e5&gt;, I am committed to cultivate loving kindness and learn ways to work for the well-being of people, animals, plants, and minerals.</sentence>
+	</item>
+	<item id="295" label="Non-Causal">
+		<sentence>The album was stored in a protective poly jacket and the &lt;e1&gt;vinyl&lt;/e1&gt; was stored in an anti-static &lt;e2&gt;sleeve&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="296" label="Non-Causal">
+		<sentence>The &lt;e1&gt;protein&lt;/e1&gt; migrated into the &lt;e2&gt;nuclei&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="297" label="Non-Causal">
+		<sentence>On 8 February 1992, Ulysses reached Jupiter for the gravity-assist manoeuvre that placed the &lt;e1&gt;spacecraft&lt;/e1&gt; in a polar &lt;e2&gt;orbit&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="298" label="Non-Causal">
+		<sentence>Heavy-gauge &lt;e1&gt;flatware&lt;/e1&gt; is composed of polished stainless &lt;e2&gt;steel&lt;/e2&gt; for good heft and balance.</sentence>
+	</item>
+	<item id="299" label="Non-Causal">
+		<sentence>While most of the experimental literature focuses on individual contributions, many real-world problems involve the &lt;e1&gt;formation&lt;/e1&gt; of &lt;e2&gt;coalitions&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="300" label="Non-Causal">
+		<sentence>On &lt;e1&gt;boats&lt;/e1&gt; with only one &lt;e2&gt;jib&lt;/e2&gt;, it is common for the clew of the jib to be further aft than the mast, meaning the jib and mainsail overlap.</sentence>
+	</item>
+	<item id="301" label="Non-Causal">
+		<sentence>&lt;e1&gt;Questions&lt;/e1&gt; on various &lt;e2&gt;aspects&lt;/e2&gt; of the study were raised and discussed.</sentence>
+	</item>
+	<item id="302" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Oscillation&lt;/e1&gt; of the lever caused by &lt;e2&gt;the swinging&lt;/e2&gt; of the pendulum.</sentence>
+	</item>
+	<item id="303" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The malfunctions&lt;/e1&gt; on Monday caused &lt;e2&gt;delays&lt;/e2&gt; for patrons waiting to check out or renew books at the branches, and impeded access to personal accounts that allow users to renew or hold books online.</sentence>
+	</item>
+	<item id="304" label="Non-Causal">
+		<sentence>The &lt;e1&gt;theme&lt;/e1&gt; is centered around urban &lt;e2&gt;street vision&lt;/e2&gt;, with a philosophical future edge.</sentence>
+	</item>
+	<item id="305" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Stimulation&lt;/e1&gt; of the posterior horn of the medial meniscus produced a measurable amount of &lt;e2&gt;CMAP latency&lt;/e2&gt; for the semimembranosus muscle.</sentence>
+	</item>
+	<item id="306" label="Non-Causal">
+		<sentence>The &lt;e1&gt;paragraph&lt;/e1&gt; states that the &lt;e2&gt;number&lt;/e2&gt; of rules is finite.</sentence>
+	</item>
+	<item id="307" label="Non-Causal">
+		<sentence>The first fighter &lt;e1&gt;wing&lt;/e1&gt; of these &lt;e2&gt;planes&lt;/e2&gt; is already in service.</sentence>
+	</item>
+	<item id="308" label="Non-Causal">
+		<sentence>The other contents of the &lt;e1&gt;suitcase&lt;/e1&gt; included &lt;e2&gt;gym shoes&lt;/e2&gt;, dirty sweat socks, Limburger cheese, scented oils, and a severely poop stained Armani suit.</sentence>
+	</item>
+	<item id="309" label="Non-Causal">
+		<sentence>200 IT &lt;e1&gt;jobs&lt;/e1&gt; are going into &lt;e2&gt;schools&lt;/e2&gt; in Victoria.</sentence>
+	</item>
+	<item id="310" label="Cause-Effect((e2,e1))">
+		<sentence>General information about &lt;e1&gt;the infection&lt;/e1&gt; caused by &lt;e2&gt;the bacteria&lt;/e2&gt; called Salmonella, when food is eaten raw or undercooked.</sentence>
+	</item>
+	<item id="311" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The afterglow&lt;/e1&gt; is produced by &lt;e2&gt;shock waves&lt;/e2&gt; in the jets of tenuous gas that shoot from the blast at almost the speed of light.</sentence>
+	</item>
+	<item id="312" label="Non-Causal">
+		<sentence>We have poured &lt;e1&gt;billions&lt;/e1&gt; into airline &lt;e2&gt;safety&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="313" label="Non-Causal">
+		<sentence>White &lt;e1&gt;souffle&lt;/e1&gt; of &lt;e2&gt;clouds&lt;/e2&gt; were strolling along the sky.</sentence>
+	</item>
+	<item id="314" label="Non-Causal">
+		<sentence>A &lt;e1&gt;mechanic&lt;/e1&gt; attaches a socket &lt;e2&gt;wrench&lt;/e2&gt; to a bolt.</sentence>
+	</item>
+	<item id="315" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The light&lt;/e1&gt; in the background is from &lt;e2&gt;the sunrise&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="316" label="Cause-Effect((e3,e1),(e3,e2))">
+		<sentence>The volunteers enjoy a sense of &lt;e1&gt;satisfaction&lt;/e1&gt; and &lt;e2&gt;personal fulfillment&lt;/e2&gt; from &lt;e3&gt;helping others&lt;/e3&gt;, and recent findings suggest that this feeling may well be a major reason why many people choose to volunteer.</sentence>
+	</item>
+	<item id="317" label="Non-Causal">
+		<sentence>The final &lt;e1&gt;chapter&lt;/e1&gt; offers a &lt;e2&gt;theological survey&lt;/e2&gt; of the use of the formula.</sentence>
+	</item>
+	<item id="318" label="Non-Causal">
+		<sentence>With these axioms, the &lt;e1&gt;judges&lt;/e1&gt; cultivated the &lt;e2&gt;principles&lt;/e2&gt; of judgment, and those principles could be used in gauging the restrictions on freedom that were justified or unjustified, in any domain of the law.</sentence>
+	</item>
+	<item id="319" label="Non-Causal">
+		<sentence>Major car manufacturers are launching more and more cars to attain the top position in this &lt;e1&gt;jungle&lt;/e1&gt; of &lt;e2&gt;automotives&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="320" label="Non-Causal">
+		<sentence>The loan &lt;e1&gt;program&lt;/e1&gt; is running into insurmountable &lt;e2&gt;difficulties&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="321" label="Non-Causal">
+		<sentence>Their &lt;e1&gt;ancestors&lt;/e1&gt; reached the island using bamboo &lt;e2&gt;rafts&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="322" label="Cause-Effect((e3,e1),(e3,e2))">
+		<sentence>Finally, &lt;e1&gt;Slone's fear&lt;/e1&gt; of AIDS and &lt;e2&gt;the mental distress&lt;/e2&gt; she suffered from this fear were caused by &lt;e3&gt;the needle stab&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="323" label="Non-Causal">
+		<sentence>The possible &lt;e1&gt;implications&lt;/e1&gt; were indicated in the first &lt;e2&gt;publication&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="324" label="Non-Causal">
+		<sentence>Hunt clubs often maintain a &lt;e1&gt;cry&lt;/e1&gt; of &lt;e2&gt;hounds&lt;/e2&gt;, trained to hunt foxes.</sentence>
+	</item>
+	<item id="325" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The disruption&lt;/e1&gt; caused by &lt;e2&gt;the latest Christmas terrorist&lt;/e2&gt; has added too much to the weary trip home.</sentence>
+	</item>
+	<item id="326" label="Non-Causal">
+		<sentence>A &lt;e1&gt;huddle&lt;/e1&gt; of &lt;e2&gt;photographers&lt;/e2&gt; was waiting outside the courtroom.</sentence>
+	</item>
+	<item id="327" label="Non-Causal">
+		<sentence>The children, seated on their mother's laps, played with toys on a table in front of a &lt;e1&gt;picture&lt;/e1&gt; with &lt;e2&gt;holes&lt;/e2&gt; in it.</sentence>
+	</item>
+	<item id="328" label="Cause-Effect((e2,e1))">
+		<sentence>The funds raised through this appeal have a direct impact on the people affected by &lt;e1&gt;the severe devastations&lt;/e1&gt; caused by &lt;e2&gt;the storms&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="329" label="Non-Causal">
+		<sentence>I had a &lt;e1&gt;nest&lt;/e1&gt; of garter &lt;e2&gt;snakes&lt;/e2&gt; in the crack between the sidewalk and foundation last year.</sentence>
+	</item>
+	<item id="330" label="Cause-Effect((e2,e1),(e3,e1))">
+		<sentence>&lt;e1&gt;A trend&lt;/e1&gt; has been caused by &lt;e2&gt;the growing absolute numbers&lt;/e2&gt; of young people on the planet, and by &lt;e3&gt;the rising unemployment rate&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="331" label="Non-Causal">
+		<sentence>The &lt;e1&gt;patient&lt;/e1&gt; is kept in the &lt;e2&gt;hospital&lt;/e2&gt; one night for observation.</sentence>
+	</item>
+	<item id="332" label="Non-Causal">
+		<sentence>In 1965, a &lt;e1&gt;farmer&lt;/e1&gt; dug up the lower &lt;e2&gt;jawbone&lt;/e2&gt; of a mammoth while in the process of expanding his cellar.</sentence>
+	</item>
+	<item id="333" label="Non-Causal">
+		<sentence>&lt;e1&gt;Spamming&lt;/e1&gt; has been the subject of &lt;e2&gt;legislation&lt;/e2&gt; in many jurisdictions.</sentence>
+	</item>
+	<item id="334" label="Non-Causal">
+		<sentence>The &lt;e1&gt;group&lt;/e1&gt; has thrown together a neat prototype &lt;e2&gt;device&lt;/e2&gt; that could possibly be the future of casinos.</sentence>
+	</item>
+	<item id="335" label="Non-Causal">
+		<sentence>The report looks at past and future of booming &lt;e1&gt;population&lt;/e1&gt; of senior &lt;e2&gt;citizens&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="336" label="Non-Causal">
+		<sentence>When Guang Yang worked in a &lt;e1&gt;textile&lt;/e1&gt; &lt;e2&gt;factory&lt;/e2&gt; in her hometown of Beijing, she would sing to pass the time.</sentence>
+	</item>
+	<item id="337" label="Non-Causal">
+		<sentence>Xiehouyu is a Chinese &lt;e1&gt;proverb&lt;/e1&gt; consisting of two &lt;e2&gt;parts&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="338" label="Non-Causal">
+		<sentence>The essential &lt;e1&gt;information&lt;/e1&gt; is found in the second &lt;e2&gt;sentence&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="339" label="Non-Causal">
+		<sentence>Some animal &lt;e1&gt;viruses&lt;/e1&gt; have migrated into &lt;e2&gt;humans&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="340" label="Cause-Effect((e1,e2),(e3,e4))">
+		<sentence>But just think, &lt;e1&gt;sadness&lt;/e1&gt; leads to &lt;e2&gt;fear&lt;/e2&gt; then &lt;e3&gt;fear&lt;/e3&gt; leads to &lt;e4&gt;anger&lt;/e4&gt;.</sentence>
+	</item>
+	<item id="341" label="Non-Causal">
+		<sentence>The &lt;e1&gt;cockpit&lt;/e1&gt; accommodated a &lt;e2&gt;crew&lt;/e2&gt; of three, including pilot, radar operator, and sensor operator.</sentence>
+	</item>
+	<item id="342" label="Non-Causal">
+		<sentence>Part of the task which the authors set themselves is the delineation and validation of the idea that a &lt;e1&gt;subculture&lt;/e1&gt; of &lt;e2&gt;violence&lt;/e2&gt; exists.</sentence>
+	</item>
+	<item id="343" label="Non-Causal">
+		<sentence>The &lt;e1&gt;team&lt;/e1&gt; put up an &lt;e2&gt;advertisement&lt;/e2&gt; to fill 225 posts, we received over 6500 applications.</sentence>
+	</item>
+	<item id="344" label="Cause-Effect((e1,e2),(e1,e3))">
+		<sentence>Eighty-four percent of &lt;e1&gt;the complications&lt;/e1&gt; resulted in &lt;e2&gt;patient deaths&lt;/e2&gt;, while 16 percent resulted in &lt;e3&gt;a serious injury&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="345" label="Non-Causal">
+		<sentence>The Boyd Group is a British based, independent &lt;e1&gt;think tank&lt;/e1&gt; considering &lt;e2&gt;issues&lt;/e2&gt; relating to animal testing.</sentence>
+	</item>
+	<item id="346" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The worst pain&lt;/e1&gt; of all was caused by &lt;e2&gt;the torment&lt;/e2&gt; to her head which was like the pain of thorns pressing into her.</sentence>
+	</item>
+	<item id="347" label="Non-Causal">
+		<sentence>Researchers have turned a mouse into a &lt;e1&gt;factory&lt;/e1&gt; for human liver &lt;e2&gt;cells&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="348" label="Non-Causal">
+		<sentence>The report is about the regular &lt;e1&gt;road&lt;/e1&gt; &lt;e2&gt;user&lt;/e2&gt; and the law.</sentence>
+	</item>
+	<item id="349" label="Non-Causal">
+		<sentence>The governments sent &lt;e1&gt;scientists&lt;/e1&gt; to the &lt;e2&gt;desert&lt;/e2&gt; for surveying climate changes.</sentence>
+	</item>
+	<item id="350" label="Non-Causal">
+		<sentence>A daughter donated her &lt;e1&gt;kidney&lt;/e1&gt; to her &lt;e2&gt;father&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="351" label="Non-Causal">
+		<sentence>He operated the &lt;e1&gt;centrifuge&lt;/e1&gt; with &lt;e2&gt;rotors&lt;/e2&gt; and buckets which show signs of corrosion or mechanical damage.</sentence>
+	</item>
+	<item id="352" label="Non-Causal">
+		<sentence>This error &lt;e1&gt;message&lt;/e1&gt; indicates that an &lt;e2&gt;error&lt;/e2&gt; has occurred.</sentence>
+	</item>
+	<item id="353" label="Cause-Effect((e1,e2),(e1,e3))">
+		<sentence>&lt;e1&gt;The genreal anesthetic&lt;/e1&gt; cause &lt;e2&gt;unconsciousness&lt;/e2&gt; and &lt;e3&gt;insensibility&lt;/e3&gt; to paid and are used for major surgical procedures.</sentence>
+	</item>
+	<item id="354" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Even nuclear energy&lt;/e1&gt; is among the causes of &lt;e2&gt;water pollution&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="355" label="Non-Causal">
+		<sentence>The &lt;e1&gt;mason&lt;/e1&gt; who did the &lt;e2&gt;stonework&lt;/e2&gt; did a wonderful job.</sentence>
+	</item>
+	<item id="356" label="Non-Causal">
+		<sentence>We poured the molten &lt;e1&gt;aluminium&lt;/e1&gt; into &lt;e2&gt;ingots&lt;/e2&gt;, which was very dangerous.</sentence>
+	</item>
+	<item id="357" label="Non-Causal">
+		<sentence>The mass on the whisk side of the broom is closer to the center of mass than the end of the &lt;e1&gt;broom&lt;/e1&gt; &lt;e2&gt;stick&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="358" label="Non-Causal">
+		<sentence>The White Paper Full Employment in Australia was the defining &lt;e1&gt;document&lt;/e1&gt; of &lt;e2&gt;economic policy&lt;/e2&gt; in Australia for the 30 years between 1945 and 1975.</sentence>
+	</item>
+	<item id="359" label="Non-Causal">
+		<sentence>The &lt;e1&gt;subject&lt;/e1&gt; was taken into &lt;e2&gt;custody&lt;/e2&gt; for trespassing.</sentence>
+	</item>
+	<item id="360" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Landslides&lt;/e1&gt; caused the majority of &lt;e2&gt;the deaths&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="361" label="Non-Causal">
+		<sentence>A penal code is a portion of a state's &lt;e1&gt;laws&lt;/e1&gt; defining &lt;e2&gt;crimes&lt;/e2&gt; and specifying the punishment.</sentence>
+	</item>
+	<item id="362" label="Non-Causal">
+		<sentence>Jack and Jill are lying on the &lt;e1&gt;floor&lt;/e1&gt; inside the &lt;e2&gt;house&lt;/e2&gt; dead.</sentence>
+	</item>
+	<item id="363" label="Cause-Effect((e2,e1))">
+		<sentence>Aware of &lt;e1&gt;the suffering&lt;/e1&gt; caused by &lt;e2&gt;unmindful drinking&lt;/e2&gt;, I am committed to cultivate good health, both physical and mental, for myself, my family, and my society.</sentence>
+	</item>
+	<item id="364" label="Non-Causal">
+		<sentence>The &lt;e1&gt;kitchen&lt;/e1&gt; holds patient &lt;e2&gt;drinks&lt;/e2&gt; and snacks.</sentence>
+	</item>
+	<item id="365" label="Non-Causal">
+		<sentence>In the 1950s, several &lt;e1&gt;books&lt;/e1&gt; were published on the topic of &lt;e2&gt;sociometrics&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="366" label="Non-Causal">
+		<sentence>The &lt;e1&gt;statue&lt;/e1&gt; of an Aztec god is carried into a &lt;e2&gt;temple&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="367" label="Cause-Effect((e2,e1))">
+		<sentence>As the molten metal cools, it hardens and assumes &lt;e1&gt;the shape&lt;/e1&gt; created by &lt;e2&gt;the mold's cavity&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="368" label="Non-Causal">
+		<sentence>At my work, an &lt;e1&gt;electronic engineer&lt;/e1&gt; has migrated into &lt;e2&gt;embedded software&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="369" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The drag&lt;/e1&gt; caused by &lt;e2&gt;the Earth's atmosphere&lt;/e2&gt; works against a rocket or a water molecule.</sentence>
+	</item>
+	<item id="370" label="Cause-Effect((e1,e3),(e2,e3))">
+		<sentence>&lt;e1&gt;Snails&lt;/e1&gt; and &lt;e2&gt;slugs&lt;/e2&gt; cause &lt;e3&gt;damage&lt;/e3&gt; to seedlings, flowers, vegetables and shrubs.</sentence>
+	</item>
+	<item id="371" label="Non-Causal">
+		<sentence>Pipe &lt;e1&gt;bombs&lt;/e1&gt; have been thrown into two parked &lt;e2&gt;cars&lt;/e2&gt; in Londonderry.</sentence>
+	</item>
+	<item id="372" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The explosion&lt;/e1&gt; caused &lt;e2&gt;a gas leak&lt;/e2&gt; on the pipeline near the village of Pouce Coupe, south of Dawson Creek.</sentence>
+	</item>
+	<item id="373" label="Non-Causal">
+		<sentence>You are on the committee to select a &lt;e1&gt;slate&lt;/e1&gt; of &lt;e2&gt;officers&lt;/e2&gt; for the next academic year.</sentence>
+	</item>
+	<item id="374" label="Non-Causal">
+		<sentence>We have donated the &lt;e1&gt;books&lt;/e1&gt; to the local &lt;e2&gt;library&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="375" label="Non-Causal">
+		<sentence>The molotov cocktail is a &lt;e1&gt;bottle&lt;/e1&gt; with &lt;e2&gt;gasoline&lt;/e2&gt; in it that has a damp cloth in the top that acts as a wick.</sentence>
+	</item>
+	<item id="376" label="Non-Causal">
+		<sentence>South Bade &lt;e1&gt;residents&lt;/e1&gt; have been blown back into primitive &lt;e2&gt;lifestyle&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="377" label="Non-Causal">
+		<sentence>Compared to running barefoot, running in conventional &lt;e1&gt;running&lt;/e1&gt; &lt;e2&gt;shoes&lt;/e2&gt; increases stress on the knee joints up to 38%.</sentence>
+	</item>
+	<item id="378" label="Non-Causal">
+		<sentence>There is an urgent need for a &lt;e1&gt;fraternity&lt;/e1&gt; of various &lt;e2&gt;sections&lt;/e2&gt; of the people to fight for the rights of the tribals and against the increasing atrocities on them.</sentence>
+	</item>
+	<item id="379" label="Non-Causal">
+		<sentence>Most of the &lt;e1&gt;discussion&lt;/e1&gt; has been about the &lt;e2&gt;words&lt;/e2&gt; he used.</sentence>
+	</item>
+	<item id="380" label="Non-Causal">
+		<sentence>The &lt;e1&gt;statute&lt;/e1&gt; covering the &lt;e2&gt;matter&lt;/e2&gt; specified in detail when and where the fair was to be held.</sentence>
+	</item>
+	<item id="381" label="Non-Causal">
+		<sentence>The &lt;e1&gt;man&lt;/e1&gt; ate the steak with a &lt;e2&gt;fork&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="382" label="Non-Causal">
+		<sentence>A system for attaining an impedance match uses an &lt;e1&gt;array&lt;/e1&gt; of collinear &lt;e2&gt;dipoles&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="383" label="Non-Causal">
+		<sentence>We have placed the &lt;e1&gt;candidates&lt;/e1&gt; into &lt;e2&gt;roles&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="384" label="Non-Causal">
+		<sentence>There were two smiling and waving individuals hanging under the &lt;e1&gt;bun&lt;/e1&gt; in a wicker &lt;e2&gt;basket&lt;/e2&gt; equipped with the big Bunsen burner.</sentence>
+	</item>
+	<item id="385" label="Non-Causal">
+		<sentence>The CFA program &lt;e1&gt;curriculum&lt;/e1&gt; is shipped to the &lt;e2&gt;people&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="386" label="Non-Causal">
+		<sentence>A &lt;e1&gt;student&lt;/e1&gt; relaxes with a &lt;e2&gt;book&lt;/e2&gt; in a Cambridge park.</sentence>
+	</item>
+	<item id="387" label="Non-Causal">
+		<sentence>He also appeared in a television &lt;e1&gt;commercial&lt;/e1&gt; against internet movie &lt;e2&gt;piracy&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="388" label="Non-Causal">
+		<sentence>The animal control released a wild &lt;e1&gt;leopard&lt;/e1&gt; into the &lt;e2&gt;wild&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="389" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Vulvodynia&lt;/e1&gt; is the cause of &lt;e2&gt;chronic vulval pain&lt;/e2&gt; in the absence of skin disease and infection.</sentence>
+	</item>
+	<item id="390" label="Non-Causal">
+		<sentence>Its &lt;e1&gt;introduction&lt;/e1&gt; supplies useful historical &lt;e2&gt;background&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="391" label="Non-Causal">
+		<sentence>Each &lt;e1&gt;painting&lt;/e1&gt; is built up of many &lt;e2&gt;layers&lt;/e2&gt; over time, thin transparent layers are juxtaposed with thicker juicier layers of paint.</sentence>
+	</item>
+	<item id="392" label="Non-Causal">
+		<sentence>A photo of a &lt;e1&gt;paddle wheel&lt;/e1&gt; &lt;e2&gt;boat&lt;/e2&gt; on the Mississippi River at New Orleans.</sentence>
+	</item>
+	<item id="393" label="Non-Causal">
+		<sentence>The &lt;e1&gt;internal auditors&lt;/e1&gt; are moved into specific pre-selected &lt;e2&gt;locations&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="394" label="Non-Causal">
+		<sentence>The piglet's incisor &lt;e1&gt;teeth&lt;/e1&gt; are cut off with &lt;e2&gt;pliers&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="395" label="Non-Causal">
+		<sentence>Our &lt;e1&gt;microwave&lt;/e1&gt; has a &lt;e2&gt;button&lt;/e2&gt; for popcorn.</sentence>
+	</item>
+	<item id="396" label="Cause-Effect((e2,e1),(e4,e3))">
+		<sentence>Arcane Subtlety reduced &lt;e1&gt;the threat&lt;/e1&gt; caused by &lt;e2&gt;Polymorph&lt;/e2&gt; by 40% at max rank, though &lt;e3&gt;the threat&lt;/e3&gt; caused by &lt;e4&gt;the spell&lt;/e4&gt; is minimal.</sentence>
+	</item>
+	<item id="397" label="Cause-Effect((e2,e1))">
+		<sentence>We estimate a wind speed associated with &lt;e1&gt;the devastation&lt;/e1&gt; caused by &lt;e2&gt;the tornado&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="398" label="Cause-Effect((e1,e2),(e3,e4))">
+		<sentence>Like a catch-22 the worst part is that &lt;e1&gt;acne&lt;/e1&gt; causes &lt;e2&gt;stress&lt;/e2&gt; and &lt;e3&gt;stress&lt;/e3&gt; triggers &lt;e4&gt;acne breakouts&lt;/e4&gt;.</sentence>
+	</item>
+	<item id="399" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The problem&lt;/e1&gt; comes from &lt;e2&gt;the widgets&lt;/e2&gt; resembling HTC's own Sense UI widgets.</sentence>
+	</item>
+	<item id="400" label="Non-Causal">
+		<sentence>The &lt;e1&gt;government&lt;/e1&gt; was criticised in a radio &lt;e2&gt;debate&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="401" label="Non-Causal">
+		<sentence>&lt;e1&gt;Canola&lt;/e1&gt; &lt;e2&gt;oil&lt;/e2&gt; is a versatile, neutral-tasting oil that is very low in saturated fat.</sentence>
+	</item>
+	<item id="402" label="Cause-Effect((e1,e2),(e1,e3))">
+		<sentence>&lt;e1&gt;The storm&lt;/e1&gt; resulted in &lt;e2&gt;31 deaths&lt;/e2&gt; and &lt;e3&gt;2.5 million dollars damage&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="403" label="Non-Causal">
+		<sentence>The &lt;e1&gt;company&lt;/e1&gt; has also targeted the premium sector with the Pringles Gourmet &lt;e2&gt;line&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="404" label="Non-Causal">
+		<sentence>Avci was the &lt;e1&gt;head&lt;/e1&gt; of the chief of the &lt;e2&gt;police&lt;/e2&gt; in Diyarbakir between 1984 and 1992.</sentence>
+	</item>
+	<item id="405" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;These chemical studies&lt;/e1&gt; were directed toward &lt;e2&gt;proof&lt;/e2&gt; of structure of the indole components of the seeds.</sentence>
+	</item>
+	<item id="406" label="Non-Causal">
+		<sentence>They incorporated the &lt;e1&gt;immigrant flows&lt;/e1&gt; into &lt;e2&gt;microsimulation&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="407" label="Non-Causal">
+		<sentence>In that case, the &lt;e1&gt;doctor&lt;/e1&gt; stops the bleeding with &lt;e2&gt;hormones&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="408" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Smoke&lt;/e1&gt; is one of the leading causes of &lt;e2&gt;kidney failures&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="409" label="Non-Causal">
+		<sentence>Many of the &lt;e1&gt;passengers&lt;/e1&gt; took the &lt;e2&gt;shuttle&lt;/e2&gt; to town and turned around in ten minutes retreating back to the comfort of the air-conditioned ship.</sentence>
+	</item>
+	<item id="410" label="Non-Causal">
+		<sentence>A &lt;e1&gt;basket&lt;/e1&gt; such as you mention holds four &lt;e2&gt;ears&lt;/e2&gt; of corn.</sentence>
+	</item>
+	<item id="411" label="Non-Causal">
+		<sentence>An &lt;e1&gt;explanation&lt;/e1&gt; of that conclusion was set out in &lt;e2&gt;appendix&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="412" label="Non-Causal">
+		<sentence>This &lt;e1&gt;wheel&lt;/e1&gt; with its snout-engaging &lt;e2&gt;pins&lt;/e2&gt; is exposed so that the worker can thrust the snout thereagainst.</sentence>
+	</item>
+	<item id="413" label="Cause-Effect((e2,e1))">
+		<sentence>The reports regarding the casualties has been announced and &lt;e1&gt;the loss&lt;/e1&gt; that has been caused by &lt;e2&gt;the quake&lt;/e2&gt; is being estimated.</sentence>
+	</item>
+	<item id="414" label="Non-Causal">
+		<sentence>Without doubt, this is one of the best &lt;e1&gt;books&lt;/e1&gt; for &lt;e2&gt;artists&lt;/e2&gt; available.</sentence>
+	</item>
+	<item id="415" label="Non-Causal">
+		<sentence>Moreover, it is beyond the power of the State to compel the Syme family to retain their shares or, more importantly, to oblige Mr Macdonald to remain the &lt;e1&gt;chief executive&lt;/e1&gt; of this &lt;e2&gt;company&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="416" label="Non-Causal">
+		<sentence>The &lt;e1&gt;scientist&lt;/e1&gt;'s &lt;e2&gt;invention&lt;/e2&gt; is still in the house of the Plummers.</sentence>
+	</item>
+	<item id="417" label="Non-Causal">
+		<sentence>The doctor implanted an &lt;e1&gt;injection&lt;/e1&gt; into three vertical glabellar &lt;e2&gt;furrows&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="418" label="Non-Causal">
+		<sentence>The &lt;e1&gt;findings&lt;/e1&gt; have been published in a special &lt;e2&gt;section&lt;/e2&gt; of the academic journal Archives of Sexual Behavior.</sentence>
+	</item>
+	<item id="419" label="Non-Causal">
+		<sentence>The major theme of the &lt;e1&gt;book&lt;/e1&gt; is the &lt;e2&gt;beauty&lt;/e2&gt; of a dream.</sentence>
+	</item>
+	<item id="420" label="Non-Causal">
+		<sentence>The &lt;e1&gt;body&lt;/e1&gt; was in a &lt;e2&gt;bin&lt;/e2&gt;, next to a dumpster, in a fenced-in area of the complex's parking lot.</sentence>
+	</item>
+	<item id="421" label="Non-Causal">
+		<sentence>Brazilian campaign laws include several &lt;e1&gt;restrictions&lt;/e1&gt; on political &lt;e2&gt;speech&lt;/e2&gt; that can seem arcane to outsiders, and even to some Brazilians.</sentence>
+	</item>
+	<item id="422" label="Cause-Effect((e1,e2))">
+		<sentence>My problem is that &lt;e1&gt;the advertisement&lt;/e1&gt; gives &lt;e2&gt;the impression&lt;/e2&gt; that women in rural Bangladesh have 6 children.</sentence>
+	</item>
+	<item id="423" label="Non-Causal">
+		<sentence>Conveyance is any &lt;e1&gt;unit&lt;/e1&gt; for &lt;e2&gt;transportation&lt;/e2&gt; of explosives or blasting agents, including but not limited to trucks, trailers, rail cars, barges, and vessels.</sentence>
+	</item>
+	<item id="424" label="Non-Causal">
+		<sentence>Bogus water collectors have dropped &lt;e1&gt;flyers&lt;/e1&gt; into people's letter &lt;e2&gt;boxes&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="425" label="Non-Causal">
+		<sentence>The current list includes pumpkin ale, local hops ale and an organic wheat and &lt;e1&gt;oats&lt;/e1&gt; &lt;e2&gt;ale&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="426" label="Non-Causal">
+		<sentence>Whenever we try a new butcher we always buy the &lt;e1&gt;butcher&lt;/e1&gt;'s &lt;e2&gt;sausage&lt;/e2&gt; first.</sentence>
+	</item>
+	<item id="427" label="Cause-Effect((e2,e1))">
+		<sentence>In these cases, &lt;e1&gt;the disappointment&lt;/e1&gt; from &lt;e2&gt;the purchase&lt;/e2&gt; is not forgotten over time, but rather accumulates.</sentence>
+	</item>
+	<item id="428" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The radiation&lt;/e1&gt; from &lt;e2&gt;the atomic bomb explosion&lt;/e2&gt; is a typical acute radiation.</sentence>
+	</item>
+	<item id="429" label="Non-Causal">
+		<sentence>The &lt;e1&gt;team&lt;/e1&gt; has moved into &lt;e2&gt;fifth place&lt;/e2&gt; in career scoring at ND.</sentence>
+	</item>
+	<item id="430" label="Non-Causal">
+		<sentence>It has been nearly 40 years since former U.S. president Lyndon Johnson convened the &lt;e1&gt;skulk&lt;/e1&gt; of veteran &lt;e2&gt;foxes&lt;/e2&gt; for the fateful consultation on November 2, 1967, on the issue of the Vietnam War.</sentence>
+	</item>
+	<item id="431" label="Non-Causal">
+		<sentence>The Scorpio &lt;e1&gt;single&lt;/e1&gt; was in a &lt;e2&gt;bin&lt;/e2&gt; with around 6 zillion 45s.</sentence>
+	</item>
+	<item id="432" label="Non-Causal">
+		<sentence>New &lt;e1&gt;settlers&lt;/e1&gt; arrived into this harsh &lt;e2&gt;land&lt;/e2&gt; to seek a new life.</sentence>
+	</item>
+	<item id="433" label="Non-Causal">
+		<sentence>Other early organisms have released &lt;e1&gt;barium&lt;/e1&gt; into &lt;e2&gt;sulphate&lt;/e2&gt; depleted pore-waters.</sentence>
+	</item>
+	<item id="434" label="Non-Causal">
+		<sentence>The &lt;e1&gt;film&lt;/e1&gt; features eight influential contemporary &lt;e2&gt;philosophers&lt;/e2&gt; walking around New York.</sentence>
+	</item>
+	<item id="435" label="Cause-Effect((e1,e2),(e1,e3))">
+		<sentence>I have found that I have extremely sensitive skin and &lt;e1&gt;most cleaners&lt;/e1&gt; cause &lt;e2&gt;rash&lt;/e2&gt; or &lt;e3&gt;a burning sensation&lt;/e3&gt; if it has contact with my skin.</sentence>
+	</item>
+	<item id="436" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The disruption&lt;/e1&gt; has been caused by &lt;e2&gt;work&lt;/e2&gt; being carried out by track operator Network Rail.</sentence>
+	</item>
+	<item id="437" label="Non-Causal">
+		<sentence>&lt;e1&gt;Chicken&lt;/e1&gt; &lt;e2&gt;bouillon&lt;/e2&gt; is obtained in three different forms, either liquid, powder or in cubes.</sentence>
+	</item>
+	<item id="438" label="Non-Causal">
+		<sentence>China sent &lt;e1&gt;seeds&lt;/e1&gt; into &lt;e2&gt;space&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="439" label="Cause-Effect((e2,e1),(e3,e4))">
+		<sentence>In a person who already has &lt;e1&gt;some neck tension&lt;/e1&gt; from &lt;e2&gt;stress&lt;/e2&gt;, &lt;e3&gt;such an event&lt;/e3&gt; can lead to &lt;e4&gt;a long-term increase&lt;/e4&gt; of neck tension.</sentence>
+	</item>
+	<item id="440" label="Non-Causal">
+		<sentence>A &lt;e1&gt;covey&lt;/e1&gt; of &lt;e2&gt;partridges&lt;/e2&gt; nested in my pear grove.</sentence>
+	</item>
+	<item id="441" label="Non-Causal">
+		<sentence>The Medicare buy-in &lt;e1&gt;plan&lt;/e1&gt; ran into Senate &lt;e2&gt;resistance&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="442" label="Cause-Effect((e2,e1))">
+		<sentence>When &lt;e1&gt;a tsunami&lt;/e1&gt; is generated by &lt;e2&gt;a strong offshore earthquake&lt;/e2&gt;, its first waves would reach the outer coast minutes after the ground stops shaking.</sentence>
+	</item>
+	<item id="443" label="Non-Causal">
+		<sentence>Ground resonance occurs while the &lt;e1&gt;helicopter&lt;/e1&gt; is on the ground with &lt;e2&gt;rotors&lt;/e2&gt; turning; it will not happen in flight.</sentence>
+	</item>
+	<item id="444" label="Non-Causal">
+		<sentence>The &lt;e1&gt;car&lt;/e1&gt; has been delivered to the upholstery &lt;e2&gt;shop&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="445" label="Non-Causal">
+		<sentence>Scientists have injected human &lt;e1&gt;cells&lt;/e1&gt; into lab &lt;e2&gt;animals&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="446" label="Non-Causal">
+		<sentence>More than 40 years have passed since the &lt;e1&gt;spacecraft&lt;/e1&gt; departed into the &lt;e2&gt;outer-space&lt;/e2&gt; with a fuel cell on-board.</sentence>
+	</item>
+	<item id="447" label="Non-Causal">
+		<sentence>For a beginner, the layout of piano keys is hard to recognize on a &lt;e1&gt;piano&lt;/e1&gt; &lt;e2&gt;keyboard&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="448" label="Non-Causal">
+		<sentence>I bought a whole &lt;e1&gt;cartload&lt;/e1&gt; of &lt;e2&gt;groceries&lt;/e2&gt;, and spent a fraction of what I would at any regular grocery store.</sentence>
+	</item>
+	<item id="449" label="Non-Causal">
+		<sentence>Your &lt;e1&gt;e-mail&lt;/e1&gt; has been successfully delivered to the &lt;e2&gt;receiver&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="450" label="Non-Causal">
+		<sentence>I pressed my nose against a &lt;e1&gt;bottle&lt;/e1&gt; full of &lt;e2&gt;snakes&lt;/e2&gt;, fermenting in their frozen grimaces.</sentence>
+	</item>
+	<item id="451" label="Non-Causal">
+		<sentence>I sent the &lt;e1&gt;payment&lt;/e1&gt; to the registered &lt;e2&gt;email address&lt;/e2&gt; in sandbox.</sentence>
+	</item>
+	<item id="452" label="Non-Causal">
+		<sentence>And so this &lt;e1&gt;book&lt;/e1&gt; involves the reader in a true educational &lt;e2&gt;process&lt;/e2&gt; which is also fun.</sentence>
+	</item>
+	<item id="453" label="Non-Causal">
+		<sentence>I caught a &lt;e1&gt;dose&lt;/e1&gt; of &lt;e2&gt;crabs&lt;/e2&gt; in Phuket once.</sentence>
+	</item>
+	<item id="454" label="Non-Causal">
+		<sentence>&lt;e1&gt;Debate&lt;/e1&gt; continues to swirl around the &lt;e2&gt;theory&lt;/e2&gt; of evolution Charles Darwin proposed 150 years ago in his groundbreaking book.</sentence>
+	</item>
+	<item id="455" label="Non-Causal">
+		<sentence>The &lt;e1&gt;flag&lt;/e1&gt; randomly popped out of an enemy's &lt;e2&gt;corpse&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="456" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Infection&lt;/e1&gt; is one of the commonest causes of &lt;e2&gt;death&lt;/e2&gt; in burn patients, particularly.</sentence>
+	</item>
+	<item id="457" label="Non-Causal">
+		<sentence>The contents of the &lt;e1&gt;envelope&lt;/e1&gt; were a &lt;e2&gt;sheet&lt;/e2&gt; of foreign note-paper, and a folded enclosure.</sentence>
+	</item>
+	<item id="458" label="Non-Causal">
+		<sentence>The &lt;e1&gt;bungalow&lt;/e1&gt; was built inside a &lt;e2&gt;barn&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="459" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The software&lt;/e1&gt; caused &lt;e2&gt;a pretty good drain&lt;/e2&gt; on the CPU for some reason.</sentence>
+	</item>
+	<item id="460" label="Non-Causal">
+		<sentence>A major government researcher once complained that his bosses used his scientific findings the way a &lt;e1&gt;drunk&lt;/e1&gt; uses a &lt;e2&gt;lamppost&lt;/e2&gt;: for support rather than illumination.</sentence>
+	</item>
+	<item id="461" label="Non-Causal">
+		<sentence>We have a &lt;e1&gt;congress&lt;/e1&gt; of different &lt;e2&gt;nations&lt;/e2&gt; and congress within nations and some sports congress.</sentence>
+	</item>
+	<item id="462" label="Non-Causal">
+		<sentence>These slippers have a &lt;e1&gt;double sole&lt;/e1&gt; with &lt;e2&gt;padding&lt;/e2&gt; inside.</sentence>
+	</item>
+	<item id="463" label="Non-Causal">
+		<sentence>The bottom section of the &lt;e1&gt;mast&lt;/e1&gt; has been mounted onto the &lt;e2&gt;ship&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="464" label="Non-Causal">
+		<sentence>We served a bowl of delicious &lt;e1&gt;soup&lt;/e1&gt; in a &lt;e2&gt;dish&lt;/e2&gt; of ivory china.</sentence>
+	</item>
+	<item id="465" label="Non-Causal">
+		<sentence>Once more he is facing off against the malicious Cobra, who has released a &lt;e1&gt;division&lt;/e1&gt; of irresistible &lt;e2&gt;infantrymen&lt;/e2&gt; with fierce battle talents.</sentence>
+	</item>
+	<item id="466" label="Non-Causal">
+		<sentence>Construction industry's &lt;e1&gt;worth&lt;/e1&gt; is invested into construction &lt;e2&gt;plant&lt;/e2&gt; and equipment.</sentence>
+	</item>
+	<item id="467" label="Non-Causal">
+		<sentence>Olive Garden is a &lt;e1&gt;family&lt;/e1&gt; of local &lt;e2&gt;restaurants&lt;/e2&gt; focused on delighting every guest with a genuine Italian dining experience.</sentence>
+	</item>
+	<item id="468" label="Cause-Effect((e2,e1))">
+		<sentence>Overall, &lt;e1&gt;discomfort&lt;/e1&gt; from &lt;e2&gt;braces&lt;/e2&gt; is typically short in duration and easily managed.</sentence>
+	</item>
+	<item id="469" label="Cause-Effect((e1,e2),(e1,e3))">
+		<sentence>&lt;e1&gt;The crashes&lt;/e1&gt; resulted in &lt;e2&gt;the collapse&lt;/e2&gt; of much of the World Trade Center complex, &lt;e3&gt;the destruction&lt;/e3&gt; of part of the southwest side of the Pentagon.</sentence>
+	</item>
+	<item id="470" label="Non-Causal">
+		<sentence>Before databases appeared, the &lt;e1&gt;information&lt;/e1&gt; on the computers was stored in &lt;e2&gt;files&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="471" label="Non-Causal">
+		<sentence>The stay at home dads in Inverness put their feet up for a little while in a &lt;e1&gt;chauffeur&lt;/e1&gt; driven &lt;e2&gt;limousine&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="472" label="Non-Causal">
+		<sentence>Adaptive hyperplasia and compensatory growth in the salt &lt;e1&gt;glands&lt;/e1&gt; of &lt;e2&gt;ducks&lt;/e2&gt; and geese.</sentence>
+	</item>
+	<item id="473" label="Non-Causal">
+		<sentence>The primary parts of a &lt;e1&gt;skateboard&lt;/e1&gt; are the &lt;e2&gt;deck&lt;/e2&gt;, the trucks, the wheels and bearings, the hardware and the grip tape.</sentence>
+	</item>
+	<item id="474" label="Non-Causal">
+		<sentence>New &lt;e1&gt;plans&lt;/e1&gt; are outlined for another wind &lt;e2&gt;farm&lt;/e2&gt; in north Devon of no more than four turbines.</sentence>
+	</item>
+	<item id="475" label="Non-Causal">
+		<sentence>I even placed the &lt;e1&gt;dish&lt;/e1&gt; in a cold &lt;e2&gt;oven&lt;/e2&gt; as directions state.</sentence>
+	</item>
+	<item id="476" label="Non-Causal">
+		<sentence>I always carry a &lt;e1&gt;suitcase&lt;/e1&gt; with my &lt;e2&gt;clothes&lt;/e2&gt; in it.</sentence>
+	</item>
+	<item id="477" label="Non-Causal">
+		<sentence>A &lt;e1&gt;technician&lt;/e1&gt; uses an &lt;e2&gt;in-circuit emulator&lt;/e2&gt; on the host PC to set breakpoints, read/write internal registers, dump memory, and perform other debugger-like functions.</sentence>
+	</item>
+	<item id="478" label="Non-Causal">
+		<sentence>Seth tends to devote his affections to his &lt;e1&gt;float&lt;/e1&gt; of &lt;e2&gt;crocodiles&lt;/e2&gt; that live in the tiny swampland on seabat isle.</sentence>
+	</item>
+	<item id="479" label="Non-Causal">
+		<sentence>The drill &lt;e1&gt;platform&lt;/e1&gt; was a part of the Romulan mining &lt;e2&gt;ship&lt;/e2&gt; Narada that could be lowered into the atmosphere of a planet or planetoid for mining operations.</sentence>
+	</item>
+	<item id="480" label="Non-Causal">
+		<sentence>The &lt;e1&gt;dialogue&lt;/e1&gt; at the Summit also covered the &lt;e2&gt;economic impact&lt;/e2&gt; of ICT literacy.</sentence>
+	</item>
+	<item id="481" label="Non-Causal">
+		<sentence>In particular, the 'historical inevitability' of a united &lt;e1&gt;proletariat&lt;/e1&gt; of various &lt;e2&gt;nationalities&lt;/e2&gt; was understood as a state interest.</sentence>
+	</item>
+	<item id="482" label="Non-Causal">
+		<sentence>The &lt;e1&gt;litho&lt;/e1&gt; was enclosed in &lt;e2&gt;plastic&lt;/e2&gt; and is like new.</sentence>
+	</item>
+	<item id="483" label="Non-Causal">
+		<sentence>Later in his &lt;e1&gt;speech&lt;/e1&gt;, Obama declared his &lt;e2&gt;support&lt;/e2&gt; for Iranian nuclear power and opposition to Iranian nuclear weapons.</sentence>
+	</item>
+	<item id="484" label="Non-Causal">
+		<sentence>A bundle of sensitive &lt;e1&gt;files&lt;/e1&gt; linked to a massive police drugs &lt;e2&gt;bust&lt;/e2&gt; have been found dumped in a skip.</sentence>
+	</item>
+	<item id="485" label="Non-Causal">
+		<sentence>The &lt;e1&gt;gods&lt;/e1&gt; conquer the Asuras with the &quot;&lt;e2&gt;breath&lt;/e2&gt; within the mouth&quot;.</sentence>
+	</item>
+	<item id="486" label="Non-Causal">
+		<sentence>And the &lt;e1&gt;chorus&lt;/e1&gt; of teenage &lt;e2&gt;boys&lt;/e2&gt; and girls were a pleasure to watch as they sang and danced.</sentence>
+	</item>
+	<item id="487" label="Non-Causal">
+		<sentence>&lt;e1&gt;Billions&lt;/e1&gt; have sunk into devastating &lt;e2&gt;companies&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="488" label="Non-Causal">
+		<sentence>Other private sector stakeholders have placed &lt;e1&gt;funds&lt;/e1&gt; into a separate state-specific &lt;e2&gt;account&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="489" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The flooding&lt;/e1&gt;, caused by &lt;e2&gt;a cyclone&lt;/e2&gt;, came on the heels of a prolonged drought, which destroyed 60 percent of Fiji's sugar cane crop last year and cost more than 50 million Fijian dollars  in relief and rehabilitation.</sentence>
+	</item>
+	<item id="490" label="Non-Causal">
+		<sentence>The &lt;e1&gt;musician&lt;/e1&gt; also treated the wood with a &lt;e2&gt;preparation&lt;/e2&gt; of borax in the manner of Stradivari.</sentence>
+	</item>
+	<item id="491" label="Non-Causal">
+		<sentence>The &lt;e1&gt;ship&lt;/e1&gt; is arriving into the &lt;e2&gt;port&lt;/e2&gt; now.</sentence>
+	</item>
+	<item id="492" label="Non-Causal">
+		<sentence>The &lt;e1&gt;pillars&lt;/e1&gt; of the &lt;e2&gt;ruins&lt;/e2&gt; of Persepolis are famous and an example of the glories of Iran during the reign of the Darius emperors.</sentence>
+	</item>
+	<item id="493" label="Non-Causal">
+		<sentence>His &lt;e1&gt;place&lt;/e1&gt; was in the &lt;e2&gt;desk&lt;/e2&gt; in front of me.</sentence>
+	</item>
+	<item id="494" label="Non-Causal">
+		<sentence>A &lt;e1&gt;surgeon&lt;/e1&gt; carefully applies the &lt;e2&gt;splints&lt;/e2&gt; to the forearm.</sentence>
+	</item>
+	<item id="495" label="Non-Causal">
+		<sentence>The study focuses on the &lt;e1&gt;personnel&lt;/e1&gt; in three service stations in Finland that are part of Teboil's &lt;e2&gt;organisation&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="496" label="Non-Causal">
+		<sentence>As it did in 2004, the &lt;e1&gt;event&lt;/e1&gt; combined the annual neural prosthesis &lt;e2&gt;workshop&lt;/e2&gt; - now in its 36th year - and the DBS consortium.</sentence>
+	</item>
+	<item id="497" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Obama's economic policies&lt;/e1&gt; are turning into &lt;e2&gt;a global disaster&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="498" label="Non-Causal">
+		<sentence>The white plastic cup was put inside a large cup and 100 Formosan subterranean &lt;e1&gt;termites&lt;/e1&gt; were released inside the large &lt;e2&gt;cup&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="499" label="Non-Causal">
+		<sentence>The taste, however, is mild, and like &lt;e1&gt;rice&lt;/e1&gt; &lt;e2&gt;liquor&lt;/e2&gt; gone right.</sentence>
+	</item>
+	<item id="500" label="Non-Causal">
+		<sentence>He puts &lt;e1&gt;creativity&lt;/e1&gt; into &lt;e2&gt;use&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="501" label="Non-Causal">
+		<sentence>The &lt;e1&gt;church&lt;/e1&gt; is sinking into indolent &lt;e2&gt;obscurity&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="502" label="Non-Causal">
+		<sentence>He posted the &lt;e1&gt;answers&lt;/e1&gt; to the &lt;e2&gt;website&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="503" label="Non-Causal">
+		<sentence>The trio, the penguins, and a &lt;e1&gt;cartload&lt;/e1&gt; of &lt;e2&gt;chimpanzees&lt;/e2&gt; use the newly-fixed plane  to come to the rescue.</sentence>
+	</item>
+	<item id="504" label="Non-Causal">
+		<sentence>She indicated to the deputy sheriff that a &lt;e1&gt;gun&lt;/e1&gt; was in a &lt;e2&gt;box&lt;/e2&gt; in her bedroom.</sentence>
+	</item>
+	<item id="505" label="Non-Causal">
+		<sentence>The Aroon indicator &lt;e1&gt;system&lt;/e1&gt; consists of two &lt;e2&gt;lines&lt;/e2&gt;, 'Aroon' and 'Aroon'.</sentence>
+	</item>
+	<item id="506" label="Non-Causal">
+		<sentence>My &lt;e1&gt;father&lt;/e1&gt; is going into &lt;e2&gt;college&lt;/e2&gt; at his old age.</sentence>
+	</item>
+	<item id="507" label="Non-Causal">
+		<sentence>The &lt;e1&gt;viruses&lt;/e1&gt; were sent to unsuspecting &lt;e2&gt;labs&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="508" label="Non-Causal">
+		<sentence>The old &lt;e1&gt;man&lt;/e1&gt; went into diabetic &lt;e2&gt;coma&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="509" label="Non-Causal">
+		<sentence>In the second &lt;e1&gt;section&lt;/e1&gt;, the authors explore &lt;e2&gt;factors&lt;/e2&gt; that are ostensibly unrelated to race but nonetheless contribute to racial inequality.</sentence>
+	</item>
+	<item id="510" label="Non-Causal">
+		<sentence>The Israeli &lt;e1&gt;media&lt;/e1&gt; treated the event with a &lt;e2&gt;mixture&lt;/e2&gt; of derision and pity.</sentence>
+	</item>
+	<item id="511" label="Non-Causal">
+		<sentence>They misplaced &lt;e1&gt;mastiffs&lt;/e1&gt; into &lt;e2&gt;homes&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="512" label="Non-Causal">
+		<sentence>The diamond &lt;e1&gt;ring&lt;/e1&gt; was dropped into a trick-or-treater's &lt;e2&gt;bag&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="513" label="Non-Causal">
+		<sentence>At the time of the incident the front &lt;e1&gt;tank&lt;/e1&gt; was full of &lt;e2&gt;molasses&lt;/e2&gt;, the middle two tanks were empty and the rear tank had just been emptied.</sentence>
+	</item>
+	<item id="514" label="Non-Causal">
+		<sentence>They have poured &lt;e1&gt;millions&lt;/e1&gt; into these &lt;e2&gt;projects&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="515" label="Non-Causal">
+		<sentence>Our company has released five computer &lt;e1&gt;applications&lt;/e1&gt; to the Apple's online &lt;e2&gt;shops&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="516" label="Non-Causal">
+		<sentence>Google groups were sending &lt;e1&gt;commands&lt;/e1&gt; to &lt;e2&gt;malware&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="517" label="Non-Causal">
+		<sentence>I've sold a &lt;e1&gt;diamond&lt;/e1&gt; &lt;e2&gt;ring&lt;/e2&gt; that I bought at Zales for about $500 for $200 on craigslist.</sentence>
+	</item>
+	<item id="518" label="Non-Causal">
+		<sentence>The &lt;e1&gt;transmitter&lt;/e1&gt; was discovered inside a bed settee &lt;e2&gt;suite&lt;/e2&gt; on which he had been sitting.</sentence>
+	</item>
+	<item id="519" label="Non-Causal">
+		<sentence>The &lt;e1&gt;arrest&lt;/e1&gt; completes a dismal past five &lt;e2&gt;weeks&lt;/e2&gt; for the 25-year-old.</sentence>
+	</item>
+	<item id="520" label="Non-Causal">
+		<sentence>The agency spent this week auctioning off a &lt;e1&gt;pack&lt;/e1&gt; of beer-commercial &lt;e2&gt;scripts&lt;/e2&gt; on eBay.</sentence>
+	</item>
+	<item id="521" label="Non-Causal">
+		<sentence>These &lt;e1&gt;tests&lt;/e1&gt; are a major theme of the &lt;e2&gt;book&lt;/e2&gt;, so it is worth investigating them.</sentence>
+	</item>
+	<item id="522" label="Non-Causal">
+		<sentence>The &lt;e1&gt;company&lt;/e1&gt; has landed into great &lt;e2&gt;controversies&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="523" label="Non-Causal">
+		<sentence>The &lt;e1&gt;kids&lt;/e1&gt; dug into the Baked Ziti with &lt;e2&gt;gusto&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="524" label="Cause-Effect((e2,e1),(e3,e1),(e4,e1))">
+		<sentence>Sip the tea slowly to reduce &lt;e1&gt;stomach pain&lt;/e1&gt; from &lt;e2&gt;indigestion&lt;/e2&gt;, &lt;e3&gt;bloating&lt;/e3&gt; and &lt;e4&gt;feeling&lt;/e4&gt; of fullness.</sentence>
+	</item>
+	<item id="525" label="Non-Causal">
+		<sentence>The curved &lt;e1&gt;spans&lt;/e1&gt; of the &lt;e2&gt;bridge&lt;/e2&gt; are the original sections.</sentence>
+	</item>
+	<item id="526" label="Non-Causal">
+		<sentence>&lt;e1&gt;Money&lt;/e1&gt; flows into &lt;e2&gt;hedge funds&lt;/e2&gt; again.</sentence>
+	</item>
+	<item id="527" label="Cause-Effect((e2,e1))">
+		<sentence>Whooping cough is another name for &lt;e1&gt;the pertussis&lt;/e1&gt;, an infection of the airways caused by &lt;e2&gt;the bacteria bordetella pertussis&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="528" label="Non-Causal">
+		<sentence>When the &lt;e1&gt;hobo&lt;/e1&gt; leaves the next &lt;e2&gt;morning&lt;/e2&gt;, Dick notices that on the gate is a picture of a knife.</sentence>
+	</item>
+	<item id="529" label="Non-Causal">
+		<sentence>People have inherited a &lt;e1&gt;tendency&lt;/e1&gt; to &lt;e2&gt;obesity&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="530" label="Non-Causal">
+		<sentence>Flag &lt;e1&gt;holders&lt;/e1&gt; have been pushed into the &lt;e2&gt;floor&lt;/e2&gt; to remove the bump on top of the flag.</sentence>
+	</item>
+	<item id="531" label="Cause-Effect((e3,e1),(e3,e2),(e4,e1),(e4,e2))">
+		<sentence>Sensitive pets experience &lt;e1&gt;rashes&lt;/e1&gt; and &lt;e2&gt;discomfort&lt;/e2&gt; from &lt;e3&gt;ticks&lt;/e3&gt; and &lt;e4&gt;fleas&lt;/e4&gt;.</sentence>
+	</item>
+	<item id="532" label="Cause-Effect((e1,e2),(e1,e3),(e1,e4))">
+		<sentence>Using the product around the house killed &lt;e1&gt;germs&lt;/e1&gt; that were causing &lt;e2&gt;flu&lt;/e2&gt;, &lt;e3&gt;colds&lt;/e3&gt; or &lt;e4&gt;sore throat&lt;/e4&gt;.</sentence>
+	</item>
+	<item id="533" label="Non-Causal">
+		<sentence>His tale of a &lt;e1&gt;subculture&lt;/e1&gt; of &lt;e2&gt;poets&lt;/e2&gt;, folk singers, and eccentrics who smoked marijuana and rejected conformist society was written in just three weeks.</sentence>
+	</item>
+	<item id="534" label="Non-Causal">
+		<sentence>The &lt;e1&gt;user&lt;/e1&gt; is cooling a processor with a power usage of 35W, using a conventional &lt;e2&gt;heatsink&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="535" label="Non-Causal">
+		<sentence>Real working cowboys, who are hired to take a &lt;e1&gt;drove&lt;/e1&gt; of &lt;e2&gt;cattle&lt;/e2&gt; to market, have a very difficult and strenuous job.</sentence>
+	</item>
+	<item id="536" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Discussion&lt;/e1&gt; ensued from &lt;e2&gt;the Florida contingent&lt;/e2&gt; on the fact that very stringent landowner protection laws in Florida make it imperative that the highest supportable appraised vallue be offered first.</sentence>
+	</item>
+	<item id="537" label="Non-Causal">
+		<sentence>The &lt;e1&gt;company&lt;/e1&gt; has mocked up a &lt;e2&gt;version&lt;/e2&gt; of YouTube built around the HTML5 video tag, playing mini-movies inside a browser sans plug-ins.</sentence>
+	</item>
+	<item id="538" label="Cause-Effect((e2,e1))">
+		<sentence>The pipeline had to face the following main concerns from opposition: disturbance of animal migration patterns, &lt;e1&gt;environmental damage&lt;/e1&gt; from &lt;e2&gt;spills&lt;/e2&gt;, geological concerns and the Alaskan permafrost.</sentence>
+	</item>
+	<item id="539" label="Non-Causal">
+		<sentence>The three types of bone &lt;e1&gt;cells&lt;/e1&gt; in the nasal &lt;e2&gt;turbinates&lt;/e2&gt; had characteristic ultrastructural features.</sentence>
+	</item>
+	<item id="540" label="Non-Causal">
+		<sentence>The &lt;e1&gt;crane&lt;/e1&gt; &lt;e2&gt;arm&lt;/e2&gt; raises, swivels, and extends to a maximum length of 11&quot; inches, just like our own Poe Ghostal.</sentence>
+	</item>
+	<item id="541" label="Non-Causal">
+		<sentence>A planted &lt;e1&gt;bomb&lt;/e1&gt; put inside a sedan &lt;e2&gt;car&lt;/e2&gt; exploded in front of the fine arts institution at Mansour neighborhood.</sentence>
+	</item>
+	<item id="542" label="Cause-Effect((e1,e2))">
+		<sentence>Much like &lt;e1&gt;the virus&lt;/e1&gt; that caused &lt;e2&gt;the 1918 flu pandemic&lt;/e2&gt;, this new H1N1 flu virus affects young adults and school children in greater numbers.</sentence>
+	</item>
+	<item id="543" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Increased reproductive toxicity&lt;/e1&gt; of landfill leachate after degradation was caused by &lt;e2&gt;nitrite&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="544" label="Non-Causal">
+		<sentence>The &lt;e1&gt;boots&lt;/e1&gt; were in a &lt;e2&gt;box&lt;/e2&gt; of stuff the boys picked up at the post office just before the curtain fell.</sentence>
+	</item>
+	<item id="545" label="Non-Causal">
+		<sentence>We just finished our last &lt;e1&gt;run&lt;/e1&gt; of pasture &lt;e2&gt;poultry&lt;/e2&gt; for the year.</sentence>
+	</item>
+	<item id="546" label="Non-Causal">
+		<sentence>&lt;e1&gt;Criminal procedure&lt;/e1&gt; refers to the &lt;e2&gt;legal process&lt;/e2&gt; for adjudicating claims that someone has violated criminal law.</sentence>
+	</item>
+	<item id="547" label="Non-Causal">
+		<sentence>His mother's &lt;e1&gt;body&lt;/e1&gt; was in a &lt;e2&gt;chest freezer&lt;/e2&gt; in the basement.</sentence>
+	</item>
+	<item id="548" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The relative calm&lt;/e1&gt; produced by &lt;e2&gt;the Shia ceasefire&lt;/e2&gt; has coincided with what the CIA is now calling the &quot;near strategic defeat&quot; of al-Qaeda in Iraq.</sentence>
+	</item>
+	<item id="549" label="Non-Causal">
+		<sentence>Some &lt;e1&gt;gardeners&lt;/e1&gt; use a thick &lt;e2&gt;mulch&lt;/e2&gt; for this purpose.</sentence>
+	</item>
+	<item id="550" label="Non-Causal">
+		<sentence>The &lt;e1&gt;machine&lt;/e1&gt; processes the blood using a centrifugal &lt;e2&gt;pump&lt;/e2&gt;, which separates the components of the blood and the plasma.</sentence>
+	</item>
+	<item id="551" label="Non-Causal">
+		<sentence>The complete &lt;e1&gt;examination process&lt;/e1&gt; has been carried out according to the pertinent &lt;e2&gt;directives&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="552" label="Non-Causal">
+		<sentence>In this grotto the boy was also born, and exposed; the mother leaves the &lt;e1&gt;child&lt;/e1&gt; behind in a woven &lt;e2&gt;basket&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="553" label="Non-Causal">
+		<sentence>Theocritus was born in Syracuse, Sicily, spent time on the island of Kos and was also a member of the &lt;e1&gt;pleiad&lt;/e1&gt; of Alexandrian &lt;e2&gt;poets&lt;/e2&gt; under Ptolemy II in Alexandria.</sentence>
+	</item>
+	<item id="554" label="Non-Causal">
+		<sentence>The heel of a persons foot consists of the &lt;e1&gt;heel&lt;/e1&gt; &lt;e2&gt;bone&lt;/e2&gt;, a pad of fat which acts as a protective cushion and a layer of thickened skin.</sentence>
+	</item>
+	<item id="555" label="Cause-Effect((e2,e1),(e3,e2))">
+		<sentence>Swissair was &lt;e1&gt;a victim&lt;/e1&gt; of the clandestine wealth-transfer plaguing the productive sector as a result of &lt;e2&gt;the falling interest-rate structure&lt;/e2&gt; caused by &lt;e3&gt;bond speculation&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="556" label="Non-Causal">
+		<sentence>The liftable &lt;e1&gt;scaffold&lt;/e1&gt; 10 has a &lt;e2&gt;platform&lt;/e2&gt; 12 including a frame 14.</sentence>
+	</item>
+	<item id="557" label="Non-Causal">
+		<sentence>In the &lt;e1&gt;poem&lt;/e1&gt;, the &lt;e2&gt;author&lt;/e2&gt; develops the metaphysical issues raised in A Riddle and Canto.</sentence>
+	</item>
+	<item id="558" label="Non-Causal">
+		<sentence>He was the author of a &lt;e1&gt;chronicle&lt;/e1&gt; narrating the &lt;e2&gt;fortunes&lt;/e2&gt; of the monastery.</sentence>
+	</item>
+	<item id="559" label="Cause-Effect((e1,e4),(e1,e5),(e1,e6),(e1,e7),(e2,e4),(e2,e5),(e2,e6),(e2,e7),(e3,e4),(e3,e5),(e3,e6),(e3,e7))">
+		<sentence>&lt;e1&gt;Dry air&lt;/e1&gt;, &lt;e2&gt;dust&lt;/e2&gt; and &lt;e3&gt;wind&lt;/e3&gt; dry out the nose and throat and cause &lt;e4&gt;nosebleeds&lt;/e4&gt;, &lt;e5&gt;coughing&lt;/e5&gt;, &lt;e6&gt;wheezing&lt;/e6&gt;, and &lt;e7&gt;other short-term respiratory problems&lt;/e7&gt;</sentence>
+	</item>
+	<item id="560" label="Non-Causal">
+		<sentence>The &lt;e1&gt;sword&lt;/e1&gt; appears in the photograph with the &lt;e2&gt;hilt&lt;/e2&gt; at 10 o'clock and the blade tip at 5 o'clock.</sentence>
+	</item>
+	<item id="561" label="Cause-Effect((e1,e2))">
+		<sentence>When the first model sank in August 1991, &lt;e1&gt;the crash&lt;/e1&gt; caused &lt;e2&gt;a seismic event&lt;/e2&gt; registering 3.0 on the Richter scale, and left nothing but a pile of debris at 220m of depth.</sentence>
+	</item>
+	<item id="562" label="Non-Causal">
+		<sentence>He took a &lt;e1&gt;ring&lt;/e1&gt; &lt;e2&gt;folder&lt;/e2&gt;, and a pad of paper suitably punched to fit the ring folder.</sentence>
+	</item>
+	<item id="563" label="Non-Causal">
+		<sentence>Collapsing commodity prices have pushed the &lt;e1&gt;farmer&lt;/e1&gt; into &lt;e2&gt;poverty&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="564" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Progress&lt;/e1&gt; comes from &lt;e2&gt;constructive competition&lt;/e2&gt;, and churches and religions can benefit greatly from it.</sentence>
+	</item>
+	<item id="565" label="Non-Causal">
+		<sentence>The movable &lt;e1&gt;mold carrier&lt;/e1&gt; has arrived into the &lt;e2&gt;store&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="566" label="Non-Causal">
+		<sentence>During the period of economy growth, those &lt;e1&gt;people&lt;/e1&gt; have migrated into the urban &lt;e2&gt;areas&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="567" label="Non-Causal">
+		<sentence>The &lt;e1&gt;inquiry&lt;/e1&gt; was confined to investigating marine &lt;e2&gt;safety issues&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="568" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The clock&lt;/e1&gt; struck twelve with &lt;e2&gt;a loud chime&lt;/e2&gt; that made me jump.</sentence>
+	</item>
+	<item id="569" label="Non-Causal">
+		<sentence>Despite being a fan of 1860 Munich, he ended up playing for the youth &lt;e1&gt;squad&lt;/e1&gt; of their &lt;e2&gt;rivals&lt;/e2&gt;, Bayern Munich, in 1959.</sentence>
+	</item>
+	<item id="570" label="Non-Causal">
+		<sentence>The &lt;e1&gt;spotter&lt;/e1&gt; sweeps the surrounding countryside with a powerful hand-held &lt;e2&gt;lamp&lt;/e2&gt; with a tightly focused beam.</sentence>
+	</item>
+	<item id="571" label="Non-Causal">
+		<sentence>Many of the &lt;e1&gt;ingredients&lt;/e1&gt; in a gourmet &lt;e2&gt;basket&lt;/e2&gt; are vaguely familiar, but they have been taken to the ultimate level in luxury.</sentence>
+	</item>
+	<item id="572" label="Non-Causal">
+		<sentence>This &lt;e1&gt;document&lt;/e1&gt; reflects the best browser &lt;e2&gt;settings&lt;/e2&gt; for use with a Macintosh system.</sentence>
+	</item>
+	<item id="573" label="Non-Causal">
+		<sentence>The &lt;e1&gt;intestines&lt;/e1&gt; and appendix are part of the &lt;e2&gt;gastrointestinal system&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="574" label="Non-Causal">
+		<sentence>The &lt;e1&gt;email marketing&lt;/e1&gt; is landing into the &lt;e2&gt;spam folders&lt;/e2&gt; decreasing the ROI for these programs.</sentence>
+	</item>
+	<item id="575" label="Non-Causal">
+		<sentence>The &lt;e1&gt;newspaper&lt;/e1&gt; was being kept in a &lt;e2&gt;box&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="576" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Various hormonal, bacterial and inflammatory disturbances&lt;/e1&gt; cause &lt;e2&gt;acne&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="577" label="Non-Causal">
+		<sentence>In any case, &lt;e1&gt;fish&lt;/e1&gt; &lt;e2&gt;oil&lt;/e2&gt; did harm patients.</sentence>
+	</item>
+	<item id="578" label="Non-Causal">
+		<sentence>He puts a driver bit that fits the &lt;e1&gt;screw&lt;/e1&gt; in the drill press &lt;e2&gt;chuck&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="579" label="Non-Causal">
+		<sentence>Today it was proved Camp is the third best &lt;e1&gt;keeper&lt;/e1&gt; in the &lt;e2&gt;team&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="580" label="Non-Causal">
+		<sentence>Selecting the dry gourds according to their shape, the &lt;e1&gt;artisan&lt;/e1&gt; carves the decorative motifs with a &lt;e2&gt;burin&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="581" label="Cause-Effect((e2,e1))">
+		<sentence>After the war, as the Midway was preparing for retirement, she was called upon one last time to the Philippines to help with &lt;e1&gt;an evacuation&lt;/e1&gt; after &lt;e2&gt;the eruption&lt;/e2&gt; of Mt. Pinatubo.</sentence>
+	</item>
+	<item id="582" label="Non-Causal">
+		<sentence>The &lt;e1&gt;book&lt;/e1&gt; includes a 13-page &lt;e2&gt;index&lt;/e2&gt;, which is quite extensive for a volume of this length.</sentence>
+	</item>
+	<item id="583" label="Non-Causal">
+		<sentence>The &lt;e1&gt;dynamite&lt;/e1&gt; used in &lt;e2&gt;blasting&lt;/e2&gt; for the South Island Line had been stored at a depot in Chung Hom Shan, near Stanley.</sentence>
+	</item>
+	<item id="584" label="Non-Causal">
+		<sentence>He went to the kids &lt;e1&gt;department&lt;/e1&gt; in the &lt;e2&gt;store&lt;/e2&gt;, decorated one of the &quot;Little Brown Bags&quot; and was entered to win prizes, including a $100 shopping spree.</sentence>
+	</item>
+	<item id="585" label="Cause-Effect((e2,e1),(e3,e1))">
+		<sentence>Lavender is excellent in the reatment of &lt;e1&gt;headaches&lt;/e1&gt; from &lt;e2&gt;fatigue&lt;/e2&gt; and &lt;e3&gt;exhaustion&lt;/e3&gt;.</sentence>
+	</item>
+	<item id="586" label="Non-Causal">
+		<sentence>I had the &lt;e1&gt;picture&lt;/e1&gt; &lt;e2&gt;frame&lt;/e2&gt; in my office for couple of days, but like anybody else in the world I wanted to play with the device for a little longer.</sentence>
+	</item>
+	<item id="587" label="Cause-Effect((e1,e2),(e1,e3))">
+		<sentence>&lt;e1&gt;The alleged abuse&lt;/e1&gt; resulted in &lt;e2&gt;bruises&lt;/e2&gt; and &lt;e3&gt;swelling&lt;/e3&gt; of the brain.</sentence>
+	</item>
+	<item id="588" label="Cause-Effect((e1,e3),(e2,e3))">
+		<sentence>The presentation uses animation to show how &lt;e1&gt;germs&lt;/e1&gt; and &lt;e2&gt;microbes&lt;/e2&gt; cause &lt;e3&gt;sickness&lt;/e3&gt;, and outlines simple preventive measures.</sentence>
+	</item>
+	<item id="589" label="Cause-Effect((e1,e2),(e1,e3),(e1,e4),(e1,e5))">
+		<sentence>Using solar electricity instead of conventional electricity sources helps to reduce &lt;e1&gt;pollution&lt;/e1&gt; that causes &lt;e2&gt;smog&lt;/e2&gt;, &lt;e3&gt;acid rain&lt;/e3&gt;, &lt;e4&gt;respiratory illness&lt;/e4&gt; and &lt;e5&gt;global warming&lt;/e5&gt;.</sentence>
+	</item>
+	<item id="590" label="Non-Causal">
+		<sentence>These are &lt;e1&gt;documents&lt;/e1&gt; to do with &lt;e2&gt;finance&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="591" label="Non-Causal">
+		<sentence>That big piece of &lt;e1&gt;meat&lt;/e1&gt; was in a &lt;e2&gt;can&lt;/e2&gt; of Bush's Baked Beans that we had for lunch today.</sentence>
+	</item>
+	<item id="592" label="Non-Causal">
+		<sentence>When the &lt;e1&gt;soul&lt;/e1&gt; left the &lt;e2&gt;body&lt;/e2&gt;, it was at the first moment quite unclothed, as at birth.</sentence>
+	</item>
+	<item id="593" label="Non-Causal">
+		<sentence>The club's president saw the &lt;e1&gt;money&lt;/e1&gt; that was inside a &lt;e2&gt;box&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="594" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The wire&lt;/e1&gt; had caused &lt;e2&gt;a slight injury&lt;/e2&gt; on the ventral side of the neck and at the base of horns.</sentence>
+	</item>
+	<item id="595" label="Non-Causal">
+		<sentence>I used these techniques to stretch my &lt;e1&gt;ear&lt;/e1&gt; &lt;e2&gt;lobes&lt;/e2&gt; to accept 6 gauge earrings.</sentence>
+	</item>
+	<item id="596" label="Non-Causal">
+		<sentence>This blog tracks and comments on &lt;e1&gt;news&lt;/e1&gt; relevant to the &lt;e2&gt;interplay&lt;/e2&gt; of science &amp; religion.</sentence>
+	</item>
+	<item id="597" label="Non-Causal">
+		<sentence>An encapsulating composition is infused into the channel to encapsulate the &lt;e1&gt;tissue&lt;/e1&gt; in a &lt;e2&gt;capsule&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="598" label="Non-Causal">
+		<sentence>Carbon &lt;e1&gt;nanotubes&lt;/e1&gt; introduced into the abdominal &lt;e2&gt;cavity&lt;/e2&gt; of mice show asbestos-like pathogenicity.</sentence>
+	</item>
+	<item id="599" label="Non-Causal">
+		<sentence>The NMB maintains a &lt;e1&gt;panel&lt;/e1&gt; of neutral &lt;e2&gt;referees&lt;/e2&gt; for service on these and certain other boards.</sentence>
+	</item>
+	<item id="600" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The election&lt;/e1&gt; was caused by &lt;e2&gt;the appointment&lt;/e2&gt; of Donald Sumner, formerly Conservative MP for Orpington, to be a county court judge.</sentence>
+	</item>
+	<item id="601" label="Non-Causal">
+		<sentence>The scientist is pouring &lt;e1&gt;beakers&lt;/e1&gt; into the &lt;e2&gt;formula&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="602" label="Non-Causal">
+		<sentence>I also received one &lt;e1&gt;stand&lt;/e1&gt; of choice &lt;e2&gt;bees&lt;/e2&gt; and about $100 in cash.</sentence>
+	</item>
+	<item id="603" label="Non-Causal">
+		<sentence>Controversy and even heated &lt;e1&gt;debate&lt;/e1&gt; with respect to the &lt;e2&gt;ethical issues&lt;/e2&gt; involved has broken out in Germany and other parts of the world.</sentence>
+	</item>
+	<item id="604" label="Cause-Effect((e1,e2),(e3,e4))">
+		<sentence>&lt;e1&gt;A stereo buss&lt;/e1&gt; outputs &lt;e2&gt;the stereo buss signal&lt;/e2&gt;; &lt;e3&gt;a record buss&lt;/e3&gt; outputs &lt;e4&gt;the record buss signal&lt;/e4&gt;.</sentence>
+	</item>
+	<item id="605" label="Non-Causal">
+		<sentence>Riviera holiday &lt;e1&gt;club&lt;/e1&gt; consists of few &lt;e2&gt;hotels&lt;/e2&gt;  which are located on the beach, in a nice and quite park.</sentence>
+	</item>
+	<item id="606" label="Non-Causal">
+		<sentence>The purpose of this &lt;e1&gt;test&lt;/e1&gt; was to report to the American public on the academic &lt;e2&gt;achievement&lt;/e2&gt; of individual students, schools, districts, and states.</sentence>
+	</item>
+	<item id="607" label="Non-Causal">
+		<sentence>The &lt;e1&gt;driver&lt;/e1&gt; of the cement truck cleaned the loading chute on his truck with a truck-mounted water &lt;e2&gt;hose&lt;/e2&gt; and began to pull away.</sentence>
+	</item>
+	<item id="608" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The accolade&lt;/e1&gt; was decided upon after &lt;e2&gt;an intense discussion&lt;/e2&gt; between about 200 members.</sentence>
+	</item>
+	<item id="609" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The hull&lt;/e1&gt; caused &lt;e2&gt;a scratch&lt;/e2&gt; on the eye and that is why it's not healing all the way.</sentence>
+	</item>
+	<item id="610" label="Cause-Effect((e2,e1))">
+		<sentence>Getting help has reduced the time to reverse &lt;e1&gt;all the irritation&lt;/e1&gt; that had been caused by &lt;e2&gt;the fungus&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="611" label="Non-Causal">
+		<sentence>My son  has been complaining of pain on his &lt;e1&gt;jaw&lt;/e1&gt; &lt;e2&gt;bone&lt;/e2&gt; for a few weeks now.</sentence>
+	</item>
+	<item id="612" label="Non-Causal">
+		<sentence>A &lt;e1&gt;knot&lt;/e1&gt; of &lt;e2&gt;toads&lt;/e2&gt; or an army of frogs in the garden is a pleasure to see, and it feels like a compliment to the gardener.</sentence>
+	</item>
+	<item id="613" label="Non-Causal">
+		<sentence>The &lt;e1&gt;phrase&lt;/e1&gt; was related in a &lt;e2&gt;preface&lt;/e2&gt; of a 1904 collection of Drury's stories.</sentence>
+	</item>
+	<item id="614" label="Non-Causal">
+		<sentence>This is how a &lt;e1&gt;politician&lt;/e1&gt; uses &lt;e2&gt;tourism&lt;/e2&gt; as an instrument for power.</sentence>
+	</item>
+	<item id="615" label="Non-Causal">
+		<sentence>&lt;e1&gt;Treatment&lt;/e1&gt; consists of antifungal &lt;e2&gt;therapy&lt;/e2&gt;, surgery, and supportive care.</sentence>
+	</item>
+	<item id="616" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;A fuel leak&lt;/e1&gt; in one of the C-17s caused &lt;e2&gt;a delay&lt;/e2&gt; on the morning of Nov. 7 as the crew was preparing for departure for Cairo, Egypt.</sentence>
+	</item>
+	<item id="617" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The energy&lt;/e1&gt; of emission produces &lt;e2&gt;the separation field&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="618" label="Non-Causal">
+		<sentence>And there's you, floating a couple of thousand feet up in the &lt;e1&gt;sky&lt;/e1&gt; in a tiny little &lt;e2&gt;basket&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="619" label="Non-Causal">
+		<sentence>He claimed to have witnessed terrible abuses in Iraq as a &lt;e1&gt;corporal&lt;/e1&gt; in the &lt;e2&gt;army&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="620" label="Non-Causal">
+		<sentence>The crowd congregating near the dwelling reminded one man of &quot;a huge &lt;e1&gt;cluster&lt;/e1&gt; of swarming &lt;e2&gt;bees&lt;/e2&gt; extending far back.</sentence>
+	</item>
+	<item id="621" label="Non-Causal">
+		<sentence>Before attacking the Walthers &lt;e1&gt;kit&lt;/e1&gt; with a razor &lt;e2&gt;saw&lt;/e2&gt;, however, let's take care of some other important layout details.</sentence>
+	</item>
+	<item id="622" label="Non-Causal">
+		<sentence>In a decade, &lt;e1&gt;neighborhoods&lt;/e1&gt; are sinking into &lt;e2&gt;disrepair&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="623" label="Non-Causal">
+		<sentence>Another &lt;e1&gt;manuscript&lt;/e1&gt; introduced &lt;e2&gt;justice&lt;/e2&gt; in terms of contractual justice.</sentence>
+	</item>
+	<item id="624" label="Non-Causal">
+		<sentence>The &lt;e1&gt;coil&lt;/e1&gt; of the &lt;e2&gt;galvanometer&lt;/e2&gt; is wrapped around a cylindrical form.</sentence>
+	</item>
+	<item id="625" label="Non-Causal">
+		<sentence>This &lt;e1&gt;rose&lt;/e1&gt; &lt;e2&gt;bud&lt;/e2&gt; waiting to open up for the world to see, was in the garden at the Swan Inn.</sentence>
+	</item>
+	<item id="626" label="Non-Causal">
+		<sentence>The veteran &lt;e1&gt;inventor&lt;/e1&gt; best-known for creating the clockwork &lt;e2&gt;radio&lt;/e2&gt; is planning to float his incubator company on the Stock Exchange.</sentence>
+	</item>
+	<item id="627" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The accident&lt;/e1&gt; caused &lt;e2&gt;a major traffic snarl&lt;/e2&gt; on the arterial road.</sentence>
+	</item>
+	<item id="628" label="Non-Causal">
+		<sentence>China has tested Barack Obama early in his presidency, with a &lt;e1&gt;flotilla&lt;/e1&gt; of naval &lt;e2&gt;vessels&lt;/e2&gt; surrounding and harassing a US spy ship in the South China Sea.</sentence>
+	</item>
+	<item id="629" label="Non-Causal">
+		<sentence>In the &lt;e1&gt;hold&lt;/e1&gt; of the American &lt;e2&gt;ship&lt;/e2&gt;, I was feeling very queasy.</sentence>
+	</item>
+	<item id="630" label="Cause-Effect((e1,e2),(e2,e3),(e2,e4))">
+		<sentence>&lt;e1&gt;The violence&lt;/e1&gt; resulted in &lt;e2&gt;the death&lt;/e2&gt; of police &quot;capo&quot; Filippo Raciti, which caused &lt;e3&gt;widespread soul-searching&lt;/e3&gt; and &lt;e4&gt;a week-long suspension&lt;/e4&gt; of Italian football.</sentence>
+	</item>
+	<item id="631" label="Non-Causal">
+		<sentence>That &lt;e1&gt;strawberry&lt;/e1&gt; &lt;e2&gt;jelly&lt;/e2&gt; was more like strawberry glue.</sentence>
+	</item>
+	<item id="632" label="Non-Causal">
+		<sentence>The &lt;e1&gt;outdoor unit&lt;/e1&gt; is going into &lt;e2&gt;defrost&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="633" label="Cause-Effect((e4,e1),(e4,e2),(e4,e3))">
+		<sentence>&lt;e1&gt;The dust&lt;/e1&gt;, &lt;e2&gt;noise&lt;/e2&gt;, and &lt;e3&gt;sleep deprivation&lt;/e3&gt; produced by &lt;e4&gt;the construction&lt;/e4&gt; are intolerable.</sentence>
+	</item>
+	<item id="634" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Plantar warts&lt;/e1&gt; are caused by &lt;e2&gt;a virus&lt;/e2&gt; that infects the outer layer of skin on the soles of the feet.</sentence>
+	</item>
+	<item id="635" label="Cause-Effect((e1,e2),(e1,e3),(e1,e4),(e1,e5))">
+		<sentence>More than 4500 tons of nitrogen oxides annually -- &lt;e1&gt;a pollutant&lt;/e1&gt; that causes &lt;e2&gt;smog&lt;/e2&gt;, &lt;e3&gt;acid rain&lt;/e3&gt;, and contributes to &lt;e4&gt;asthma attacks&lt;/e4&gt; and &lt;e5&gt;other breathing problems&lt;/e5&gt;.</sentence>
+	</item>
+	<item id="636" label="Non-Causal">
+		<sentence>You find a &lt;e1&gt;bottle&lt;/e1&gt; with pretty blue &lt;e2&gt;water&lt;/e2&gt; in it in the bathroom.</sentence>
+	</item>
+	<item id="637" label="Non-Causal">
+		<sentence>Scientists have successfully tested a &lt;e1&gt;system&lt;/e1&gt; that translates brain waves into &lt;e2&gt;speech&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="638" label="Non-Causal">
+		<sentence>But what is not seen in the television pictures, is the almost invisible army of 7000 migrant &lt;e1&gt;workers&lt;/e1&gt; who built the iconic &lt;e2&gt;structure&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="639" label="Non-Causal">
+		<sentence>The &lt;e1&gt;publication&lt;/e1&gt; has connection to an international research &lt;e2&gt;project&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="640" label="Non-Causal">
+		<sentence>Recent global warming has thrown &lt;e1&gt;nature&lt;/e1&gt; into &lt;e2&gt;disarray&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="641" label="Non-Causal">
+		<sentence>In an experiment, proteins successfully transported &lt;e1&gt;copper&lt;/e1&gt; into the &lt;e2&gt;tissue&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="642" label="Non-Causal">
+		<sentence>Here is a picture of the &lt;e1&gt;artist&lt;/e1&gt; taking a &lt;e2&gt;photograph&lt;/e2&gt; of a young girl in front of a vegetable stand on Mulberry Street in New York City.</sentence>
+	</item>
+	<item id="643" label="Non-Causal">
+		<sentence>The &lt;e1&gt;flyer&lt;/e1&gt; advertised a two-week &lt;e2&gt;workshop&lt;/e2&gt; being conducted at the university this summer.</sentence>
+	</item>
+	<item id="644" label="Cause-Effect((e2,e1))">
+		<sentence>Companies face &lt;e1&gt;big risk&lt;/e1&gt; from &lt;e2&gt;loss&lt;/e2&gt; of key employees.</sentence>
+	</item>
+	<item id="645" label="Non-Causal">
+		<sentence>She tried to find out what &lt;e1&gt;key&lt;/e1&gt; on your &lt;e2&gt;keyboard&lt;/e2&gt; fits your personalty.</sentence>
+	</item>
+	<item id="646" label="Non-Causal">
+		<sentence>She moved the &lt;e1&gt;files&lt;/e1&gt; into a &lt;e2&gt;shared folder&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="647" label="Non-Causal">
+		<sentence>The &lt;e1&gt;workmen&lt;/e1&gt; applied a &lt;e2&gt;blowlamp&lt;/e2&gt; to the pipes which were lagged with felt.</sentence>
+	</item>
+	<item id="648" label="Cause-Effect((e2,e1))">
+		<sentence>The author clearly got a great deal of &lt;e1&gt;pleasure&lt;/e1&gt; from &lt;e2&gt;the work&lt;/e2&gt; and did not allow his vast amount of material to force him into shallow generalizations.</sentence>
+	</item>
+	<item id="649" label="Non-Causal">
+		<sentence>Here's the &lt;e1&gt;theory&lt;/e1&gt; I wrote down the other night on the cocktail &lt;e2&gt;napkin&lt;/e2&gt; I fished out of my purse just now.</sentence>
+	</item>
+	<item id="650" label="Cause-Effect((e2,e1))">
+		<sentence>The Fujita Scale is used to rate the intensity of a tornado by examining &lt;e1&gt;the damage&lt;/e1&gt; caused by &lt;e2&gt;the tornado&lt;/e2&gt; after it has passed over a man-made structure.</sentence>
+	</item>
+	<item id="651" label="Cause-Effect((e2,e1),(e3,e1))">
+		<sentence>A method of mitigating the effect of &lt;e1&gt;a market spike&lt;/e1&gt; caused by &lt;e2&gt;the triggering&lt;/e2&gt; and &lt;e3&gt;the election&lt;/e3&gt; of a conditional order includes monitoring conditional orders.</sentence>
+	</item>
+	<item id="652" label="Non-Causal">
+		<sentence>There is a certain dissonance among the &lt;e1&gt;essays&lt;/e1&gt; collected in this &lt;e2&gt;volume&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="653" label="Cause-Effect((e2,e1))">
+		<sentence>About 30 ducks were found dead in Klamath County in the past two days, and officials are investigating whether &lt;e1&gt;the deaths&lt;/e1&gt; are from &lt;e2&gt;a cholera outbreak&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="654" label="Non-Causal">
+		<sentence>The &lt;e1&gt;apartment&lt;/e1&gt; has a separate &lt;e2&gt;dining room&lt;/e2&gt;, which can easily be converted into a third bedroom if need be.</sentence>
+	</item>
+	<item id="655" label="Non-Causal">
+		<sentence>Nielsen released his &lt;e1&gt;insights&lt;/e1&gt; into the online &lt;e2&gt;industry&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="656" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Tsunamis&lt;/e1&gt; are caused by &lt;e2&gt;the sudden displacement&lt;/e2&gt; of large volumes of water.</sentence>
+	</item>
+	<item id="657" label="Non-Causal">
+		<sentence>The &lt;e1&gt;products&lt;/e1&gt; of business entity within the export processing zone are shipped to non-bonded &lt;e2&gt;areas&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="658" label="Non-Causal">
+		<sentence>The Leftist student platform at LAU is newly born independent leftist &lt;e1&gt;league&lt;/e1&gt; of various leftist &lt;e2&gt;movements&lt;/e2&gt; and independents at the Lebanese American University.</sentence>
+	</item>
+	<item id="659" label="Non-Causal">
+		<sentence>The &lt;e1&gt;sculpture&lt;/e1&gt; of Lawrence J Nowlan has been featured in numerous &lt;e2&gt;publications&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="660" label="Cause-Effect((e1,e4),(e2,e4),(e3,e4))">
+		<sentence>&lt;e1&gt;Heat&lt;/e1&gt;, &lt;e2&gt;wind&lt;/e2&gt; and &lt;e3&gt;smoke&lt;/e3&gt; cause &lt;e4&gt;flight delays&lt;/e4&gt;.</sentence>
+	</item>
+	<item id="661" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;A spaghetti pie&lt;/e1&gt; served at a church dinner had caused &lt;e2&gt;the poisoning&lt;/e2&gt; of one hundred people.</sentence>
+	</item>
+	<item id="662" label="Cause-Effect((e2,e1),(e3,e4))">
+		<sentence>Thus previous scientific estimates had overstated &lt;e1&gt;the devastation&lt;/e1&gt; caused by &lt;e2&gt;the asteroid&lt;/e2&gt;, since &lt;e3&gt;topographic and ecologic factors&lt;/e3&gt; contributing to &lt;e4&gt;the result&lt;/e4&gt; had not been taken into account.</sentence>
+	</item>
+	<item id="663" label="Non-Causal">
+		<sentence>They chose a &lt;e1&gt;shop&lt;/e1&gt; that oven bakes the paint in a down draft paint &lt;e2&gt;booth&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="664" label="Non-Causal">
+		<sentence>470000 mullet &lt;e1&gt;fingerlings&lt;/e1&gt; have been released into the &lt;e2&gt;lake&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="665" label="Non-Causal">
+		<sentence>I purchased the Wen &lt;e1&gt;lumberjack&lt;/e1&gt; &lt;e2&gt;saw&lt;/e2&gt; a few years ago, and just broke the blade.</sentence>
+	</item>
+	<item id="666" label="Non-Causal">
+		<sentence>Interestingly, the &lt;e1&gt;sink&lt;/e1&gt; was inside the &lt;e2&gt;room&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="667" label="Cause-Effect((e1,e3),(e2,e3))">
+		<sentence>&lt;e1&gt;Alcohol&lt;/e1&gt; and &lt;e2&gt;drugs&lt;/e2&gt; directly cause &lt;e3&gt;suicide&lt;/e3&gt; by significantly diminishing the reasoning of the person at the time of the suicide.</sentence>
+	</item>
+	<item id="668" label="Non-Causal">
+		<sentence>The campaign coincides with a government &lt;e1&gt;initiative&lt;/e1&gt; to promote &lt;e2&gt;safer drinking&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="669" label="Non-Causal">
+		<sentence>A &lt;e1&gt;bottle&lt;/e1&gt; full of &lt;e2&gt;liquid&lt;/e2&gt; flew out of the stands and struck visiting keeper Armando Ribeiro just below the right eye.</sentence>
+	</item>
+	<item id="670" label="Non-Causal">
+		<sentence>And with a flourish of her wand she unleashed a &lt;e1&gt;plague&lt;/e1&gt; of biting &lt;e2&gt;insects&lt;/e2&gt;, the sand fly.</sentence>
+	</item>
+	<item id="671" label="Non-Causal">
+		<sentence>The &lt;e1&gt;crust&lt;/e1&gt; of the &lt;e2&gt;earth&lt;/e2&gt; is composed of a great variety of igneous, metamorphic, and sedimentary rocks.</sentence>
+	</item>
+	<item id="672" label="Non-Causal">
+		<sentence>In the film, Howell plays a cop who gets involved with a murder witness, only to find out that she's part of an international &lt;e1&gt;ring&lt;/e1&gt; of sex-for-hire &lt;e2&gt;beauties&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="673" label="Non-Causal">
+		<sentence>A &lt;e1&gt;month&lt;/e1&gt; of snowy &lt;e2&gt;sundays&lt;/e2&gt; in January had an adverse impact on Prospect's finances.</sentence>
+	</item>
+	<item id="674" label="Cause-Effect((e2,e1))">
+		<sentence>Three people had been killed in &lt;e1&gt;a fire&lt;/e1&gt; after &lt;e2&gt;the quake&lt;/e2&gt; and hundreds of people were injured.</sentence>
+	</item>
+	<item id="675" label="Non-Causal">
+		<sentence>In any forest, the &lt;e1&gt;carbon&lt;/e1&gt; is stored in the &lt;e2&gt;plants&lt;/e2&gt; and trees.</sentence>
+	</item>
+	<item id="676" label="Non-Causal">
+		<sentence>Extra virgin olive &lt;e1&gt;oil&lt;/e1&gt; is in a &lt;e2&gt;cask&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="677" label="Cause-Effect((e2,e1),(e3,e1),(e4,e1),(e5,e1),(e6,e1))">
+		<sentence>&lt;e1&gt;The damages&lt;/e1&gt; caused by &lt;e2&gt;mudslides&lt;/e2&gt;, &lt;e3&gt;tremors&lt;/e3&gt;, &lt;e4&gt;subsidence&lt;/e4&gt;, &lt;e5&gt;superficial or underground water&lt;/e5&gt; were verified, as well as &lt;e6&gt;swelling clay soils&lt;/e6&gt;.</sentence>
+	</item>
+	<item id="678" label="Cause-Effect((e3,e1),(e3,e2))">
+		<sentence>&lt;e1&gt;The boom&lt;/e1&gt; and &lt;e2&gt;shaking&lt;/e2&gt; was caused by &lt;e3&gt;the asteroid&lt;/e3&gt; that passed Earth yesterday.</sentence>
+	</item>
+	<item id="679" label="Non-Causal">
+		<sentence>Far below and a universe away, a &lt;e1&gt;constellation&lt;/e1&gt; of &lt;e2&gt;windows&lt;/e2&gt; darkened.</sentence>
+	</item>
+	<item id="680" label="Non-Causal">
+		<sentence>Heartwater &lt;e1&gt;disease&lt;/e1&gt; was imported into the major &lt;e2&gt;cities&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="681" label="Non-Causal">
+		<sentence>This article lists people whose &lt;e1&gt;artwork&lt;/e1&gt; has been featured on &lt;e2&gt;stamps&lt;/e2&gt; of the United States.</sentence>
+	</item>
+	<item id="682" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The pollution&lt;/e1&gt; from &lt;e2&gt;animal factories&lt;/e2&gt; is also destroying parts of the world's oceans.</sentence>
+	</item>
+	<item id="683" label="Non-Causal">
+		<sentence>My new &lt;e1&gt;boss&lt;/e1&gt; moved into his &lt;e2&gt;office&lt;/e2&gt; yesterday.</sentence>
+	</item>
+	<item id="684" label="Non-Causal">
+		<sentence>He clicked the left &lt;e1&gt;key&lt;/e1&gt; of the &lt;e2&gt;mouse&lt;/e2&gt; in order to copy the chosen translation to the clipboard.</sentence>
+	</item>
+	<item id="685" label="Non-Causal">
+		<sentence>This &lt;e1&gt;export&lt;/e1&gt; &lt;e2&gt;company&lt;/e2&gt; is involved in sourcing various manufacturing commodities and exporting these products to different countries around the world.</sentence>
+	</item>
+	<item id="686" label="Non-Causal">
+		<sentence>Manufacturers passed on the &lt;e1&gt;costs&lt;/e1&gt; to the &lt;e2&gt;consumers&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="687" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;A large tsunami&lt;/e1&gt; triggered by &lt;e2&gt;the earthquake&lt;/e2&gt; spread outward from off the Sumatran coast.</sentence>
+	</item>
+	<item id="688" label="Non-Causal">
+		<sentence>The &lt;e1&gt;temperature&lt;/e1&gt; inside the &lt;e2&gt;car&lt;/e2&gt; was 79 degrees.</sentence>
+	</item>
+	<item id="689" label="Non-Causal">
+		<sentence>He handed the &lt;e1&gt;suspects&lt;/e1&gt; over to the &lt;e2&gt;police&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="690" label="Non-Causal">
+		<sentence>The signoff &lt;e1&gt;queue&lt;/e1&gt; is used for &lt;e2&gt;reports&lt;/e2&gt; that the user has not seen before.</sentence>
+	</item>
+	<item id="691" label="Non-Causal">
+		<sentence>This &lt;e1&gt;data&lt;/e1&gt; has been concerning primarily assembly &lt;e2&gt;operations&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="692" label="Non-Causal">
+		<sentence>I sold a &lt;e1&gt;gold&lt;/e1&gt; &lt;e2&gt;ring&lt;/e2&gt; to another company online and they sent me a lousy check for $14.00.</sentence>
+	</item>
+	<item id="693" label="Non-Causal">
+		<sentence>Until 1864 &lt;e1&gt;vessels&lt;/e1&gt; in the service of certain UK public offices defaced the Red Ensign with the &lt;e2&gt;badge&lt;/e2&gt; of their office.</sentence>
+	</item>
+	<item id="694" label="Non-Causal">
+		<sentence>The contents of the &lt;e1&gt;box&lt;/e1&gt; were a &lt;e2&gt;present&lt;/e2&gt; and the box itself was as a present.</sentence>
+	</item>
+	<item id="695" label="Non-Causal">
+		<sentence>Little did these naive people realize at the time that they were embracing a foul &lt;e1&gt;brood&lt;/e1&gt; of ungrateful &lt;e2&gt;vipers&lt;/e2&gt;, which would soon prove to be their undoing.</sentence>
+	</item>
+	<item id="696" label="Non-Causal">
+		<sentence>The &lt;e1&gt;man&lt;/e1&gt; has journeyed into deeper level &lt;e2&gt;studies&lt;/e2&gt; with sound masters.</sentence>
+	</item>
+	<item id="697" label="Non-Causal">
+		<sentence>A famous &lt;e1&gt;singer&lt;/e1&gt; was sent to &lt;e2&gt;prison&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="698" label="Non-Causal">
+		<sentence>The fibre &lt;e1&gt;pellets&lt;/e1&gt; were blown into &lt;e2&gt;cavities&lt;/e2&gt; using special equipment.</sentence>
+	</item>
+	<item id="699" label="Non-Causal">
+		<sentence>Anyway, the &lt;e1&gt;guy&lt;/e1&gt; convinced some local with a &lt;e2&gt;car&lt;/e2&gt; to drive somewhere to procure us some beer.</sentence>
+	</item>
+	<item id="700" label="Non-Causal">
+		<sentence>Their moral &lt;e1&gt;criticism&lt;/e1&gt; concerns the particular social and personal &lt;e2&gt;context&lt;/e2&gt; in which they appear.</sentence>
+	</item>
+	<item id="701" label="Non-Causal">
+		<sentence>The morning session of the &lt;e1&gt;symposium&lt;/e1&gt; ends with a reunion lunch for the &lt;e2&gt;attendees&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="702" label="Non-Causal">
+		<sentence>It was the only living thing in sight except for a stationary &lt;e1&gt;cloud&lt;/e1&gt; of hysterical &lt;e2&gt;gnats&lt;/e2&gt; suspended in the heat above the road.</sentence>
+	</item>
+	<item id="703" label="Non-Causal">
+		<sentence>The contents of the &lt;e1&gt;cyst&lt;/e1&gt; included a foul smelling &lt;e2&gt;gas&lt;/e2&gt; and white-green pus.</sentence>
+	</item>
+	<item id="704" label="Non-Causal">
+		<sentence>The &lt;e1&gt;data&lt;/e1&gt; is stored in &lt;e2&gt;tables&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="705" label="Non-Causal">
+		<sentence>My little brother's &lt;e1&gt;tooth&lt;/e1&gt; was in a &lt;e2&gt;cup&lt;/e2&gt; of water the other day and I nearly fainted when I saw it.</sentence>
+	</item>
+	<item id="706" label="Non-Causal">
+		<sentence>You saw professional &lt;e1&gt;chefs&lt;/e1&gt; using a garlic &lt;e2&gt;press&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="707" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The cutaneous mycoses&lt;/e1&gt; are caused by a homogeneous group of &lt;e2&gt;keratinophilic fungi&lt;/e2&gt; termed the dermatophytes.</sentence>
+	</item>
+	<item id="708" label="Non-Causal">
+		<sentence>When poured into a Sly Imperial pint glass, this &lt;e1&gt;rye&lt;/e1&gt; &lt;e2&gt;ale&lt;/e2&gt; was a solid amber color with a few minor gold highlights along the sides and at the bottom of the beer.</sentence>
+	</item>
+	<item id="709" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The incoming water&lt;/e1&gt; caused &lt;e2&gt;a stain&lt;/e2&gt; on the wall that, through the lens of pareidolia, looked like a bearded man with a big afro hairdo.</sentence>
+	</item>
+	<item id="710" label="Cause-Effect((e2,e1),(e3,e2))">
+		<sentence>&lt;e1&gt;Bounding pulses&lt;/e1&gt; are caused by &lt;e2&gt;the relatively low systemic arterial blood pressure&lt;/e2&gt; due to &lt;e3&gt;the continuous runoff&lt;/e3&gt; of blood from the aorta into the pulmonary artery.</sentence>
+	</item>
+	<item id="711" label="Non-Causal">
+		<sentence>The slide system consists of a slideway and a sliding element, whereas the slide system is connected to at least one piston and the &lt;e1&gt;crank&lt;/e1&gt; of the &lt;e2&gt;shaft&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="712" label="Non-Causal">
+		<sentence>The &lt;e1&gt;organisation&lt;/e1&gt; campaigns against such things as &lt;e2&gt;child labour&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="713" label="Non-Causal">
+		<sentence>Each warrior carries a sime, or spatulate-shaped sword, in a leather sheath, and bears a bow and &lt;e1&gt;quiver&lt;/e1&gt; of poisoned &lt;e2&gt;arrows&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="714" label="Non-Causal">
+		<sentence>There is great &lt;e1&gt;concern&lt;/e1&gt; among voters over the &lt;e2&gt;economy&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="715" label="Non-Causal">
+		<sentence>The disruption of electricity and telecommunication lines have thrown the &lt;e1&gt;city&lt;/e1&gt; into &lt;e2&gt;darkness&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="716" label="Non-Causal">
+		<sentence>The young &lt;e1&gt;student&lt;/e1&gt; is part of the environmental &lt;e2&gt;association&lt;/e2&gt; IndyACT.</sentence>
+	</item>
+	<item id="717" label="Cause-Effect((e2,e1))">
+		<sentence>Information about &lt;e1&gt;the foodborne illness&lt;/e1&gt; caused by &lt;e2&gt;salmonella bacteria&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="718" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Bed sores&lt;/e1&gt;  are caused by &lt;e2&gt;pressure&lt;/e2&gt;, which cuts off blood flow to parts of the body.</sentence>
+	</item>
+	<item id="719" label="Non-Causal">
+		<sentence>These pages are intended to assist you in accessing Belgian library &lt;e1&gt;book&lt;/e1&gt; &lt;e2&gt;catalogues&lt;/e2&gt; over the internet.</sentence>
+	</item>
+	<item id="720" label="Non-Causal">
+		<sentence>The &lt;e1&gt;crane&lt;/e1&gt; has a five-section 51 m &lt;e2&gt;boom&lt;/e2&gt; with MEGAFORM shaping for greater rigidity and Grove's patented TWIN-LOCK boom pinning system.</sentence>
+	</item>
+	<item id="721" label="Cause-Effect((e1,e3),(e2,e3))">
+		<sentence>Most illnesses, including &lt;e1&gt;colds&lt;/e1&gt; and &lt;e2&gt;flu&lt;/e2&gt;, cause &lt;e3&gt;a toxic overload&lt;/e3&gt; that also increases the stress on the kidneys.</sentence>
+	</item>
+	<item id="722" label="Non-Causal">
+		<sentence>I've just sold a &lt;e1&gt;gold&lt;/e1&gt; &lt;e2&gt;ring&lt;/e2&gt;, which was my last asset and now we have nothing left for a better life.</sentence>
+	</item>
+	<item id="723" label="Non-Causal">
+		<sentence>Insects that harm trees are often prey for a &lt;e1&gt;descent&lt;/e1&gt; of &lt;e2&gt;woodpeckers&lt;/e2&gt;, which, in turn benefits the birds that nest in the saved tree.</sentence>
+	</item>
+	<item id="724" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The grief&lt;/e1&gt; from &lt;e2&gt;sudden death&lt;/e2&gt; is completely different from expected death, when families have time to prepare and say goodbye.</sentence>
+	</item>
+	<item id="725" label="Non-Causal">
+		<sentence>We have exported &lt;e1&gt;products&lt;/e1&gt; to domestic &lt;e2&gt;locations&lt;/e2&gt; only.</sentence>
+	</item>
+	<item id="726" label="Non-Causal">
+		<sentence>In a known motor-pump unit of this type, the slot-barrel motor is connected, to the drive &lt;e1&gt;spindle&lt;/e1&gt; of the screw-spindle &lt;e2&gt;pump&lt;/e2&gt; with a pressure side throttle interval interposed.</sentence>
+	</item>
+	<item id="727" label="Non-Causal">
+		<sentence>The ship leaked &lt;e1&gt;oil&lt;/e1&gt; into Brisbane &lt;e2&gt;river&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="728" label="Non-Causal">
+		<sentence>A temporary &lt;e1&gt;password&lt;/e1&gt; has been sent to your &lt;e2&gt;email&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="729" label="Non-Causal">
+		<sentence>The &lt;e1&gt;remnants&lt;/e1&gt; of Einstein's brain were in a &lt;e2&gt;box&lt;/e2&gt; marked &quot;Costa Cider.</sentence>
+	</item>
+	<item id="730" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The accident&lt;/e1&gt; caused &lt;e2&gt;a traffic snarl&lt;/e2&gt; on the ever busy bridge leading to diversions to other routes.</sentence>
+	</item>
+	<item id="731" label="Non-Causal">
+		<sentence>The joey is blind at birth, and must instinctively ascend their &lt;e1&gt;mother&lt;/e1&gt;'s &lt;e2&gt;belly&lt;/e2&gt; and crawl into the nurturing pouch.</sentence>
+	</item>
+	<item id="732" label="Non-Causal">
+		<sentence>So far this year, the city has dumped &lt;e1&gt;sewage&lt;/e1&gt; into the &lt;e2&gt;river&lt;/e2&gt; more than 500 times.</sentence>
+	</item>
+	<item id="733" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The contortions&lt;/e1&gt; are caused by &lt;e2&gt;gravitational interactions&lt;/e2&gt; with the small satellites Prometheus and Pandora.</sentence>
+	</item>
+	<item id="734" label="Non-Causal">
+		<sentence>In recent months, &lt;e1&gt;civility&lt;/e1&gt; has been a topic of much &lt;e2&gt;discussion&lt;/e2&gt; in the newspapers.</sentence>
+	</item>
+	<item id="735" label="Non-Causal">
+		<sentence>When a &lt;e1&gt;person&lt;/e1&gt; assists the &lt;e2&gt;employee&lt;/e2&gt; with completing this form, the preparer must certify the form.</sentence>
+	</item>
+	<item id="736" label="Non-Causal">
+		<sentence>The vehicle's &lt;e1&gt;name&lt;/e1&gt; was leaked in a Financial Times &lt;e2&gt;article&lt;/e2&gt; published on August 31, and this evening, several photos and more information about the concept were published online.</sentence>
+	</item>
+	<item id="737" label="Non-Causal">
+		<sentence>&lt;e1&gt;Asteroid&lt;/e1&gt; threatened Earth with &lt;e2&gt;disaster&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="738" label="Non-Causal">
+		<sentence>&lt;e1&gt;Historians&lt;/e1&gt; use &lt;e2&gt;evidence&lt;/e2&gt; and artifacts.</sentence>
+	</item>
+	<item id="739" label="Non-Causal">
+		<sentence>The &lt;e1&gt;celebrity&lt;/e1&gt; arrived to crash the &lt;e2&gt;party&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="740" label="Non-Causal">
+		<sentence>Speaking of nerdy sweaters, my &lt;e1&gt;girlfriend&lt;/e1&gt; knit me a Mugatu &lt;e2&gt;sweater&lt;/e2&gt; for xmas a few years back.</sentence>
+	</item>
+	<item id="741" label="Non-Causal">
+		<sentence>I dragged the &lt;e1&gt;files&lt;/e1&gt; into the file sharing &lt;e2&gt;folder&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="742" label="Non-Causal">
+		<sentence>His deeds have thrown thousands of &lt;e1&gt;people&lt;/e1&gt; into eternal financial &lt;e2&gt;damnation&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="743" label="Non-Causal">
+		<sentence>We have a bright and cheery yellow casement window over the &lt;e1&gt;sink&lt;/e1&gt; in my &lt;e2&gt;kitchen&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="744" label="Non-Causal">
+		<sentence>It is the &lt;e1&gt;story&lt;/e1&gt; of a &lt;e2&gt;teenager&lt;/e2&gt; who finds himself floating on a raft down the Mississippi River with an escaping slave.</sentence>
+	</item>
+	<item id="745" label="Non-Causal">
+		<sentence>The &quot;Happy Hour&quot; &lt;e1&gt;gathering&lt;/e1&gt; was the best part of the &lt;e2&gt;event&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="746" label="Non-Causal">
+		<sentence>The &lt;e1&gt;band&lt;/e1&gt; first reached the charts with the &lt;e2&gt;song&lt;/e2&gt; &quot;Touch My Light&quot; in the late spring of 1993, receiving major airplay on mainstream radio stations.</sentence>
+	</item>
+	<item id="747" label="Non-Causal">
+		<sentence>I changed the length of the &lt;e1&gt;catapult&lt;/e1&gt; &lt;e2&gt;arm&lt;/e2&gt; and I changed the rubber band.</sentence>
+	</item>
+	<item id="748" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The shock wave&lt;/e1&gt; was generated by &lt;e2&gt;an explosive&lt;/e2&gt; made from RDX.</sentence>
+	</item>
+	<item id="749" label="Non-Causal">
+		<sentence>Man at the norhtern edge of the &lt;e1&gt;mouth&lt;/e1&gt; of the &lt;e2&gt;cave&lt;/e2&gt; of Stora Forvar, with a Stone Age settlement which was excavated in 1888-1893.</sentence>
+	</item>
+	<item id="750" label="Non-Causal">
+		<sentence>The DS Criminal Investigative Division conducts criminal &lt;e1&gt;investigations&lt;/e1&gt; into &lt;e2&gt;violations&lt;/e2&gt; of passport and visa fraud.</sentence>
+	</item>
+	<item id="751" label="Non-Causal">
+		<sentence>We have entered successful &lt;e1&gt;surveys&lt;/e1&gt; into &lt;e2&gt;report&lt;/e2&gt; demonstrating secondary meaning.</sentence>
+	</item>
+	<item id="752" label="Non-Causal">
+		<sentence>Ji-Sung finds Jae-Young, but the &lt;e1&gt;striker&lt;/e1&gt; blasts over the bar with only the &lt;e2&gt;keeper&lt;/e2&gt; to beat.</sentence>
+	</item>
+	<item id="753" label="Non-Causal">
+		<sentence>The stunt &lt;e1&gt;plane&lt;/e1&gt; went into uncontrollable &lt;e2&gt;dive&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="754" label="Non-Causal">
+		<sentence>Magnetic nanoworms and nanocrystals deliver the &lt;e1&gt;amino acid&lt;/e1&gt; to the &lt;e2&gt;tumors&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="755" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;Ordinary warts&lt;/e1&gt; on the hands and feet are caused by &lt;e2&gt;viruses&lt;/e2&gt;, which only affect humans.</sentence>
+	</item>
+	<item id="756" label="Non-Causal">
+		<sentence>My &lt;e1&gt;friend&lt;/e1&gt; has entered into a new &lt;e2&gt;relationship&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="757" label="Non-Causal">
+		<sentence>He added &lt;e1&gt;ethanol&lt;/e1&gt; into the wash &lt;e2&gt;buffer&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="758" label="Non-Causal">
+		<sentence>Lately, even women inject &lt;e1&gt;steroids&lt;/e1&gt; into their &lt;e2&gt;muscles&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="759" label="Non-Causal">
+		<sentence>His becomes Version 1 of the report and is the &lt;e1&gt;report&lt;/e1&gt; that fulfills compliance with the ARRA Section 1512 reporting &lt;e2&gt;requirements&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="760" label="Cause-Effect((e5,e1),(e5,e2),(e5,e3),(e5,e4))">
+		<sentence>&lt;e1&gt;Headaches&lt;/e1&gt;, &lt;e2&gt;dizziness&lt;/e2&gt;, &lt;e3&gt;balance problems&lt;/e3&gt;, and &lt;e4&gt;neck and back pain&lt;/e4&gt; were caused by &lt;e5&gt;the work injury&lt;/e5&gt;.</sentence>
+	</item>
+	<item id="761" label="Non-Causal">
+		<sentence>These later &lt;e1&gt;paintings&lt;/e1&gt; explore non-figurative &lt;e2&gt;shapes&lt;/e2&gt; and textures within a bare compositional space.</sentence>
+	</item>
+	<item id="762" label="Non-Causal">
+		<sentence>The &lt;e1&gt;crew&lt;/e1&gt; assisted with the &lt;e2&gt;investigation&lt;/e2&gt; and was in service for around an hour.</sentence>
+	</item>
+	<item id="763" label="Cause-Effect((e1,e2))">
+		<sentence>Thus, evaluating capital punishment as a form of retribution is reduced by Sellin to merely estimating the proportion of &lt;e1&gt;capital murders&lt;/e1&gt; that result in &lt;e2&gt;execution&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="764" label="Non-Causal">
+		<sentence>Maybe a few times my &lt;e1&gt;boobs&lt;/e1&gt; have popped out of an &lt;e2&gt;outfit&lt;/e2&gt; but that happens.</sentence>
+	</item>
+	<item id="765" label="Non-Causal">
+		<sentence>The &lt;e1&gt;treatment&lt;/e1&gt; includes an aromatherapy &lt;e2&gt;mask&lt;/e2&gt; and moisturizer.</sentence>
+	</item>
+	<item id="766" label="Non-Causal">
+		<sentence>The round &lt;e1&gt;bedroom&lt;/e1&gt; was the best part of this &lt;e2&gt;suite&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="767" label="Non-Causal">
+		<sentence>Well I still have a sore spot on my &lt;e1&gt;cheek&lt;/e1&gt; &lt;e2&gt;bone&lt;/e2&gt; and left joint.</sentence>
+	</item>
+	<item id="768" label="Non-Causal">
+		<sentence>On the eve of the Olympics, the Times Online ran a &lt;e1&gt;story&lt;/e1&gt; looking at disconcerting &lt;e2&gt;trends&lt;/e2&gt; developing in the doping world.</sentence>
+	</item>
+	<item id="769" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;Traffic vibrations&lt;/e1&gt; on the street outside had caused &lt;e2&gt;the movement&lt;/e2&gt; of the light.</sentence>
+	</item>
+	<item id="770" label="Non-Causal">
+		<sentence>&lt;e1&gt;Discussion&lt;/e1&gt; took place on the &lt;e2&gt;function&lt;/e2&gt; of this Committee.</sentence>
+	</item>
+	<item id="771" label="Cause-Effect((e1,e3),(e2,e1))">
+		<sentence>I used to get &lt;e1&gt;terrible headaches&lt;/e1&gt; from &lt;e2&gt;sinus infections&lt;/e2&gt; that resulted in &lt;e3&gt;taking antibiotics&lt;/e3&gt; a few times a year.</sentence>
+	</item>
+	<item id="772" label="Non-Causal">
+		<sentence>First Great Western is preparing to distribute thousands of &lt;e1&gt;leaflets&lt;/e1&gt; on board its trains to inform customers about a major track &lt;e2&gt;improvement&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="773" label="Non-Causal">
+		<sentence>The Big Barn Farm friends discover a &lt;e1&gt;pile&lt;/e1&gt; of &lt;e2&gt;junk&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="774" label="Non-Causal">
+		<sentence>Flowers are nice, but don't last very long and the &lt;e1&gt;fruit&lt;/e1&gt; in a fruit &lt;e2&gt;basket&lt;/e2&gt; often goes bad.</sentence>
+	</item>
+	<item id="775" label="Non-Causal">
+		<sentence>The citizens remained in their houses, and only vagabonds, the &lt;e1&gt;scum&lt;/e1&gt; of various &lt;e2&gt;nationalities&lt;/e2&gt;, and spies were about; women were not to be seen, or only such as belonged to the dregs of society.</sentence>
+	</item>
+	<item id="776" label="Non-Causal">
+		<sentence>&lt;e1&gt;Judges&lt;/e1&gt; wear the bench &lt;e2&gt;wig&lt;/e2&gt; when they are sitting in court.</sentence>
+	</item>
+	<item id="777" label="Cause-Effect((e1,e2))">
+		<sentence>Later on that same day, &lt;e1&gt;an electrical short&lt;/e1&gt; at the Farragut North station caused &lt;e2&gt;a fire&lt;/e2&gt; on the tracks which shut down service three times over the course of the day.</sentence>
+	</item>
+	<item id="778" label="Non-Causal">
+		<sentence>So, the theme of the &lt;e1&gt;play&lt;/e1&gt; has to do with &lt;e2&gt;religion&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="779" label="Non-Causal">
+		<sentence>Most &lt;e1&gt;dieters&lt;/e1&gt; are familiar with the usual weight loss &lt;e2&gt;formula&lt;/e2&gt;: proper diet, adequate exercise, and a healthier lifestyle.</sentence>
+	</item>
+	<item id="780" label="Cause-Effect((e2,e1))">
+		<sentence>&lt;e1&gt;The electricity&lt;/e1&gt; is produced by &lt;e2&gt;440 nuclear reactors&lt;/e2&gt; in 31 countries.</sentence>
+	</item>
+	<item id="781" label="Cause-Effect((e2,e1))">
+		<sentence>Information about Salmonellosis, &lt;e1&gt;an illness&lt;/e1&gt; caused by &lt;e2&gt;a bacteria&lt;/e2&gt; found in raw food, soil, or water.</sentence>
+	</item>
+	<item id="782" label="Non-Causal">
+		<sentence>Before introducing Via in three test markets, the &lt;e1&gt;company&lt;/e1&gt; told employees an elaborate &lt;e2&gt;story&lt;/e2&gt; about its creation.</sentence>
+	</item>
+	<item id="783" label="Non-Causal">
+		<sentence>A &lt;e1&gt;programmer&lt;/e1&gt; uses a high level &lt;e2&gt;language&lt;/e2&gt; to implement its algorithms.</sentence>
+	</item>
+	<item id="784" label="Non-Causal">
+		<sentence>One of the most vivid portraits is that of Brookie Simmons, a white woman who fought to abolish child labor in a &lt;e1&gt;town&lt;/e1&gt; &lt;e2&gt;factory&lt;/e2&gt;.</sentence>
+	</item>
+	<item id="785" label="Cause-Effect((e1,e2))">
+		<sentence>&lt;e1&gt;The earthquake&lt;/e1&gt; caused &lt;e2&gt;the failures&lt;/e2&gt; of the electric power system, the water supply system, the sewer system, the telephone and telegraph systems.</sentence>
+	</item>
+	<item id="786" label="Non-Causal">
+		<sentence>There was the &lt;e1&gt;glitter&lt;/e1&gt; of &lt;e2&gt;admirals&lt;/e2&gt; and generals before the high altar, and the brighter colors of the representatives of powers and potentates.</sentence>
+	</item>
+</test-corpus>

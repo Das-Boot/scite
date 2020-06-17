@@ -1,5 +1,5 @@
-# SCIFI
-**S**elf-Attentive BiLSTM-**C**RF w**I**th **F**la**I**r Embeddings for Causality Extraction.
+# SCITE
+**S**elf-Attentive BiLSTM-**C**RF w**I**th with **T**ransferred **E**mbeddings for Causality Extraction.
 - arXiv paper link: https://arxiv.org/pdf/1904.07629.pdf
 - All code will be released upon publication
 
@@ -10,7 +10,7 @@
 - Experimental results show that the proposed method outperforms other baselines
 
 ## Citation
-Please cite the following paper when using SCIFI:
+Please cite the following paper when using SCITE:
 
     @article{li2019causality,
       archivePrefix = {arXiv},

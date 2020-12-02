@@ -1,7 +1,8 @@
 # SCITE
 **S**elf-Attentive BiLSTM-**C**RF w**I**th with **T**ransferred **E**mbeddings for Causality Extraction.
 - arXiv paper link: https://arxiv.org/pdf/1904.07629.pdf
-- free access link (before December 27, 2020): https://authors.elsevier.com/c/1c1ae3INukEDTx (Table 6 in the paper does not appear to have been edited correctly ...)
+- free access link (before December 27, 2020): https://authors.elsevier.com/c/1c1ae3INukEDTx 
+(Table 6 in the paper does not appear to have been edited correctly ...)
 
 ## Highlights
 - A novel causality tagging scheme has been proposed to serve the causality extraction

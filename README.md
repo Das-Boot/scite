@@ -30,5 +30,5 @@ Please cite the following paper when using SCITE.
       issn = "0925-2312",
       doi = "https://doi.org/10.1016/j.neucom.2020.08.078",
       url = "http://www.sciencedirect.com/science/article/pii/S0925231220316027",
-      author = "Zhaoning Li and Qi Li and Xiaotian Zou and Jiangtao Ren",
+      author = "Zhaoning Li and Qi Li and Xiaotian Zou and Jiangtao Ren"
     }

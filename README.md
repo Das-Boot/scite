@@ -21,7 +21,7 @@ Causality extraction, Sequence labeling, BiLSTM-CRF, Flair embeddings, Self-atte
 ## Download link for the model logs
 
 - Baidu Netdisk: https://pan.baidu.com/s/18CfLFFQ3IRPGLX8QDJdSlg password: v5c2
-- Google Drive: 
+- Google Drive: https://drive.google.com/file/d/1qJRYF3RZ2Fc4kLSXHZ5weNgC11BjWDGK/view?usp=sharing
 
 ## Citation
 Please cite the following paper when using SCITE.

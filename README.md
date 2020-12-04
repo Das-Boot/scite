@@ -18,6 +18,10 @@ Causality extraction from natural language texts is a challenging open problem i
 
 Causality extraction, Sequence labeling, BiLSTM-CRF, Flair embeddings, Self-attention
 
+## Download link for the training weights and the logs of cross-validation metrics
+
+- Baidu Netdisk: https://pan.baidu.com/s/18CfLFFQ3IRPGLX8QDJdSlg password: v5c2
+
 ## Citation
 Please cite the following paper when using SCITE.
 

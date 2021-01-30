@@ -1,7 +1,7 @@
 # SCITE
 **S**elf-Attentive BiLSTM-**C**RF w**I**th with **T**ransferred **E**mbeddings for Causality Extraction.
 - arXiv paper link: https://arxiv.org/abs/1904.07629
-- free access link: https://doi.org/10.1016/j.neucom.2015.09.066
+- free access link: https://doi.org/10.1016/j.neucom.2020.08.078
 (Table 6 in the paper does not appear to have been edited correctly ...)
 
 ## Highlights

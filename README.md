@@ -7,7 +7,7 @@
 **Code and data for： <br />**
 **Li, Z., Li, Q., Zou, X., & Ren, J. (2021). Causality extraction based on self-attentive BiLSTM-CRF with transferred embeddings.** *Neurocomputing*. <br />
 [DOI: 10.1016/j.neucom.2020.08.078](https://doi.org/10.1016/j.neucom.2020.08.078).
-(Table 6 in this version does not appear to have been edited correctly; please see [arXiv](https://arxiv.org/abs/1904.07629) for a correctly formatted paper)
+(Table 6 in this version does not appear to have been edited correctly; please see [arXiv](https://arxiv.org/abs/1904.07629) for a correctly formatted paper.)
 ___
 
 ## Highlights

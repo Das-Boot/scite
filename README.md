@@ -1,5 +1,6 @@
 # SCITE
 
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neucom.2020.08.078-blue)](https://doi.org/10.1016/j.neucom.2020.08.078)<br />
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40lizhn7&style=social&url=https%3A%2F%2Ftwitter.com%2Flizhn7)](https://twitter.com/lizhn7)
 
 **S**elf-Attentive BiLSTM-**C**RF w**I**th with **T**ransferred **E**mbeddings for Causality Extraction.

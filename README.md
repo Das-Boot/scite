@@ -1,4 +1,4 @@
-# SCITE
+# SCITE <img src="https://raw.githubusercontent.com/Das-Boot/scite/master/scite.png" align="right" width="561px">
 ***S***elf-Attentive BiLSTM-***C***RF w***I***th with ***T***ransferred ***E***mbeddings for Causality Extraction
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neucom.2020.08.078-blue)](https://doi.org/10.1016/j.neucom.2020.08.078)
